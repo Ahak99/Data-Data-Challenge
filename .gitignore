@@ -1,5 +1,11 @@
-virtualenv
+
 
 data/bronze/*
 data/silver/*
 data/gold/*
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+virtualenv/
