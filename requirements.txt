@@ -3,3 +3,5 @@ webdriver-manager
 pandas
 requests
 python-dotenv
+apache-airflow
+airflowctl
