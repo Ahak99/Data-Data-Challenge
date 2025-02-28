@@ -1,8 +1,8 @@
-# Ignore all contents inside these folders recursively
-data/bronze/**
-data/silver/**
-data/gold/**
-logs/**
+# # Ignore all contents inside these folders recursively
+# data/bronze/**
+# data/silver/**
+# data/gold/**
+# logs/**
 
 # Allow only the .gitkeep files to preserve directory structure
 !data/bronze/.gitkeep

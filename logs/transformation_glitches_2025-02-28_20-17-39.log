@@ -1,0 +1,355 @@
+2025-02-28 20:17:39,550:ERROR:clean_data: Removed 4 rows with missing values
+NoneType: None
+2025-02-28 20:17:39,557:ERROR:transform_data: 147 missing currency mappings
+NoneType: None
+2025-02-28 20:17:39,683:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:39,689:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:39,825:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:39,829:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:39,939:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:39,940:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:40,062:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:40,064:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:40,180:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:40,181:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:40,261:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:40,262:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:40,384:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:40,385:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:40,486:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:40,487:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:40,639:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:40,640:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:40,755:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:40,757:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:40,869:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:40,872:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:40,988:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:40,989:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:41,082:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:41,083:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:41,182:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:41,184:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:41,255:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:41,257:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:41,330:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:41,331:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:41,430:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:41,432:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:41,552:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:41,553:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:41,618:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:41,619:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:41,712:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:41,715:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:41,853:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:41,856:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:41,979:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:41,980:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:42,076:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:42,078:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:42,185:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:42,189:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:42,300:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:42,302:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:42,397:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:42,398:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:42,476:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:42,477:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:42,550:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:42,551:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:42,658:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:42,660:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:42,770:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:42,773:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:42,861:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:42,863:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:42,953:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:42,955:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:43,047:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:43,048:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:43,143:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:43,146:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:43,234:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:43,235:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:43,322:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:43,324:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:43,432:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:43,434:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:43,529:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:43,531:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None
+2025-02-28 20:17:43,629:ERROR:Network error: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 163, in get_exchange_rate
+    response.raise_for_status()
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\virtualenv\lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://v6.exchangerate-api.com/v6/83d54a3093c0bb5485892f13/latest/USD
+2025-02-28 20:17:43,630:ERROR:transform_data: Failed rate fetch for USD->GBP
+NoneType: None

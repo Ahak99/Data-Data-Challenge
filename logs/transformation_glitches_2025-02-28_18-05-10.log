@@ -1,0 +1,4 @@
+2025-02-28 18:05:10,590:ERROR:clean_data: Removed 4 rows with missing values
+NoneType: None
+2025-02-28 18:05:10,597:ERROR:transform_data: 147 missing currency mappings
+NoneType: None

@@ -1,0 +1,7 @@
+2025-02-28 19:45:47,217:ERROR:clean_data: Critical error - module 'pandas' has no attribute 'head'
+Traceback (most recent call last):
+  File "C:\Users\user_\Downloads\Data&Data\Data&Data - PriceAnalysis Challenge\Data-Data-Challenge\src\scraper\utils.py", line 212, in clean_data
+    print(pd.head())
+AttributeError: module 'pandas' has no attribute 'head'
+2025-02-28 19:45:47,218:ERROR:transform_data: Invalid input DataFrame
+NoneType: None
