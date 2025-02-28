@@ -1,6 +1,8 @@
-data/bronze/*
-data/silver/*
-data/gold/*
+# Keep empty directories
+data/bronze/.gitkeep
+data/silver/.gitkeep
+data/gold/.gitkeep
+docs/.gitkeep
 
 # Python
 __pycache__/
@@ -8,4 +10,5 @@ __pycache__/
 .env
 virtualenv/
 
+# Logs
 logs/*
