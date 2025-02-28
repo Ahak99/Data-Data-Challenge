@@ -1,10 +1,10 @@
-# Ignore contents of data and logs folders
+# Ignore all contents inside these folders
 data/bronze/*
 data/silver/*
 data/gold/*
 logs/*
 
-# Allow .gitkeep files in those directories
+# Allow only the .gitkeep files to keep the folders in the repo
 !data/bronze/.gitkeep
 !data/silver/.gitkeep
 !data/gold/.gitkeep
