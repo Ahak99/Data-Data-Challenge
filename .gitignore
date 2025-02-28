@@ -1,10 +1,10 @@
-# Ignore all contents inside these folders
-data/bronze/*
-data/silver/*
-data/gold/*
-logs/*
+# Ignore all contents inside these folders recursively
+data/bronze/**
+data/silver/**
+data/gold/**
+logs/**
 
-# Allow only the .gitkeep files to keep the folders in the repo
+# Allow only the .gitkeep files to preserve directory structure
 !data/bronze/.gitkeep
 !data/silver/.gitkeep
 !data/gold/.gitkeep
@@ -15,4 +15,3 @@ __pycache__/
 *.py[cod]
 .env
 virtualenv/
-
