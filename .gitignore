@@ -3,12 +3,22 @@ data/bronze/.gitkeep
 data/silver/.gitkeep
 data/gold/.gitkeep
 docs/.gitkeep
+logs/.gitkeep
+
+# Ignore contents of data and logs folders
+data/bronze/*
+data/silver/*
+data/gold/*
+logs/*
+
+# Allow .gitkeep files in those directories
+!data/bronze/.gitkeep
+!data/silver/.gitkeep
+!data/gold/.gitkeep
+!logs/.gitkeep
 
 # Python
 __pycache__/
 *.py[cod]
 .env
 virtualenv/
-
-# Logs
-logs/*
