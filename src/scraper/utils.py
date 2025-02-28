@@ -1,3 +1,9 @@
+import os
+import time
+from datetime import datetime
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
@@ -5,6 +11,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support import expected_conditions as EC
 import json
+import glob
 import os
 from datetime import datetime
 import pandas as pd
@@ -137,34 +144,42 @@ def get_exchange_rate(from_currency: str, to_currency: str) -> float:
         to_currency (str): Target currency (e.g., 'EUR').
 
     Returns:
-        float: Exchange rate from 'from_currency' to 'to_currency'.
+        float: Exchange rate from 'from_currency' to 'to_currency', or None if an error occurs.
     """
-    # Same currency, return 1.0
     if from_currency.upper() == to_currency.upper():
         return 1.0
         
     load_dotenv()
 
-    # Get API key from .env file
-    API_KEY = os.getenv("EXCHANGE_API_KEY")
-    
-    url = f"https://v6.exchangerate-api.com/v6/{API_KEY}/latest/{from_currency.upper()}"
+    EXCHANGE_API_KEY = os.getenv("EXCHANGE_API_KEY")
+    if not EXCHANGE_API_KEY:
+        log_error("Missing API key")
+        return None
 
+    url = f"https://v6.exchangerate-api.com/v6/1469e13710f523e45c568282/latest/{from_currency.upper()}"
+    print(url)
     try:
         response = requests.get(url, timeout=10)
         response.raise_for_status()
         data = response.json()
+
         if "conversion_rates" not in data:
-            raise ValueError("Invalid API response")
-        return data["conversion_rates"].get(to_currency.upper(), None)
+            raise ValueError("Invalid API response: missing 'conversion_rates'")
+
+        rate = data["conversion_rates"].get(to_currency.upper())
+        if rate is None:
+            raise ValueError(f"Exchange rate for {to_currency.upper()} not found in API response")
+
+        return rate
+
     except requests.exceptions.RequestException as e:
         log_error(f"Network error: {e}")
     except ValueError as e:
         log_error(f"Data error: {e}")
     except Exception as e:
-        log_error(f"Unexpected error fetching exchange rate: {e}")
-    return None
+        log_error(f"Unexpected error: {e}")
 
+    return None  # Return None in case of an error
 
 def clean_data(dataframe):
     """
@@ -186,7 +201,7 @@ def clean_data(dataframe):
             return dataframe.copy()
 
         df = dataframe.copy()
-
+        
         # Validate required columns
         required_columns = {'brand', 'product_url', 'image_url', 'collection',
                            'reference', 'price', 'currency', 'country', 'year'}
@@ -194,7 +209,7 @@ def clean_data(dataframe):
         if missing_cols:
             log_error(f"clean_data: Missing required columns {missing_cols}")
             return pd.DataFrame()
-
+        
         try:
             # Column reordering with fallback for missing columns
             column_list_ref = list(required_columns)
@@ -203,7 +218,7 @@ def clean_data(dataframe):
         except KeyError as e:
             log_error(f"clean_data: Column reordering failed - {str(e)}")
             return pd.DataFrame()
-
+        
         # Handle missing values
         try:
             initial_count = len(df)
@@ -212,7 +227,7 @@ def clean_data(dataframe):
                 log_error(f"clean_data: Removed {diff} rows with missing values")
         except Exception as e:
             log_error(f"clean_data: Error handling missing values - {str(e)}")
-
+        
         # Deduplication
         try:
             dup_count = df.duplicated(subset=['reference', 'country']).sum()
@@ -221,20 +236,23 @@ def clean_data(dataframe):
                 df.drop_duplicates(subset=['reference', 'country'], keep='first', inplace=True)
         except Exception as e:
             log_error(f"clean_data: Deduplication failed - {str(e)}")
-
+        
         # Price cleaning with validation
         try:
             # Remove currency symbols
-            df['price'] = df['price'].astype(str).str.replace(r'[^\d.,]', '', regex=True)
-            
-            # Handle different decimal separators
-            df['price'] = (
+            currencies = df['currency'].unique()
+
+            for currency in currencies:
+                df['price'] = df['price'].astype(str).str.replace(currency, '', regex=False)
+
+            # Remove spaces and commas from the 'price' column and convert to integer
+            df.loc[:, 'price'] = (
                 df['price']
-                .str.replace(',', '.', regex=False)
-                .str.replace(r'[^0-9.]', '', regex=True)
-                .apply(pd.to_numeric, errors='coerce')
+                .astype(str)
+                .str.replace(r'[\s,]', '', regex=True)  # Remove spaces and commas
+                .astype(float)  # Convert to integer
             )
-            
+
             # Validate numeric conversion
             if (invalid_prices := df['price'].isna().sum()) > 0:
                 log_error(f"clean_data: {invalid_prices} invalid price values")
@@ -311,7 +329,7 @@ def transform_data(dataframe, CURRENCIES_CODE):
         log_error(f"transform_data: Critical error - {str(e)}")
         return dataframe
 
-def lunch_data_preprocess(dataframe, CURRENCIES_CODE):
+def launch_data_preprocess(dataframe, CURRENCIES_CODE):
     """
     Cleans and transforms the dataset.
     
@@ -324,14 +342,11 @@ def lunch_data_preprocess(dataframe, CURRENCIES_CODE):
     """
     # First clean the data
     cleaned_df = clean_data(dataframe)
-
+    
     # Then transform the data
     transformed_df = transform_data(cleaned_df, CURRENCIES_CODE)
     
     return transformed_df
-
-import os
-import glob
 
 def get_latest_folder(path):
     # Get a list of all directories in the given path
