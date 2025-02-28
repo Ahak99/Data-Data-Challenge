@@ -17,3 +17,4 @@ __pycache__/
 virtualenv/
 
 data__/
+logs__
