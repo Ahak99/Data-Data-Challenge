@@ -12,12 +12,12 @@ from datetime import datetime
 from scraper.data_extraction.data_extraction import DataExtraction
 
 class TestDataExtraction(unittest.TestCase):
-    @patch("scraper.data_extraction.data_extraction.start_webdriver")
-    @patch("scraper.data_extraction.data_extraction.create_output_directory")
-    @patch("scraper.data_extraction.data_extraction.launch_extraction")
-    @patch("scraper.data_extraction.data_extraction.save_data")
     @patch("scraper.data_extraction.data_extraction.close_webdriver")
-    def test_run_extraction(self, mock_close_webdriver, mock_save_data, mock_launch_extraction, mock_create_output_directory, mock_start_webdriver):
+    @patch("scraper.data_extraction.data_extraction.save_data")
+    @patch("scraper.data_extraction.data_extraction.launch_extraction")
+    @patch("scraper.data_extraction.data_extraction.create_output_directory")
+    @patch("scraper.data_extraction.data_extraction.start_webdriver")
+    def test_run_extraction(self, mock_start_webdriver, mock_create_output_directory, mock_launch_extraction, mock_save_data, mock_close_webdriver):
         # Set up a dummy driver and output directory.
         dummy_driver = MagicMock()
         mock_start_webdriver.return_value = dummy_driver
@@ -43,7 +43,7 @@ class TestDataExtraction(unittest.TestCase):
 
         # Expect save_data to be called for each country (when data is found) plus one final aggregated save.
         self.assertEqual(mock_save_data.call_count, len(DataExtraction.COUNTRIES) + 1)
-
+    
     @patch("scraper.data_extraction.data_extraction.launch_extraction")
     def test_extract_products_for_country(self, mock_launch_extraction):
         # Simulate different product lists for each collection.
@@ -60,6 +60,28 @@ class TestDataExtraction(unittest.TestCase):
         products = extractor._extract_products_for_country("TestCountry", "test_url")
         # Expected: 1 + 1 + 0 + 2 = 4 products
         self.assertEqual(len(products), 4)
+
+    @patch("scraper.data_extraction.data_extraction.log_error")
+    @patch("scraper.data_extraction.data_extraction.close_webdriver")
+    @patch("scraper.data_extraction.data_extraction.launch_extraction")
+    @patch("scraper.data_extraction.data_extraction.create_output_directory")
+    @patch("scraper.data_extraction.data_extraction.start_webdriver")
+    def test_run_extraction_with_exception(self, mock_start_webdriver, mock_create_output_directory, mock_launch_extraction, mock_close_webdriver, mock_log_error):
+        # Set up a dummy driver and output directory.
+        dummy_driver = MagicMock()
+        mock_start_webdriver.return_value = dummy_driver
+        mock_create_output_directory.return_value = "dummy_bronze_dir"
+        
+        # Simulate an exception in launch_extraction on the first call.
+        mock_launch_extraction.side_effect = Exception("Test Exception")
+
+        extractor = DataExtraction()
+        extractor.run()
+
+        # Verify that log_error was called to log the exception.
+        mock_log_error.assert_called()
+        # Verify that the WebDriver is closed even after an exception.
+        mock_close_webdriver.assert_called_once_with(dummy_driver)
 
 if __name__ == "__main__":
     unittest.main()

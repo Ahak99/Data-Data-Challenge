@@ -85,7 +85,7 @@ def extract_image_url(card):
 def create_output_directory(stage):
     """Create and return a timestamped output directory."""
     timestamp = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
-    output_dir = os.path.join(f"data/{stage}", timestamp)
+    output_dir = os.path.join(f"data/{stage}/", timestamp)
     os.makedirs(output_dir, exist_ok=True)
     return output_dir
 
@@ -156,7 +156,7 @@ def get_exchange_rate(from_currency: str, to_currency: str) -> float:
         log_error("Missing API key")
         return None
 
-    url = f"https://v6.exchangerate-api.com/v6/1469e13710f523e45c568282/latest/{from_currency.upper()}"
+    url = f"https://v6.exchangerate-api.com/v6/{EXCHANGE_API_KEY}/latest/{from_currency.upper()}"
     print(url)
     try:
         response = requests.get(url, timeout=10)
@@ -202,23 +202,6 @@ def clean_data(dataframe):
 
         df = dataframe.copy()
         
-        # Validate required columns
-        required_columns = {'brand', 'product_url', 'image_url', 'collection',
-                           'reference', 'price', 'currency', 'country', 'year'}
-        missing_cols = required_columns - set(df.columns)
-        if missing_cols:
-            log_error(f"clean_data: Missing required columns {missing_cols}")
-            return pd.DataFrame()
-        
-        try:
-            # Column reordering with fallback for missing columns
-            column_list_ref = list(required_columns)
-            remaining_columns = [col for col in df.columns if col not in required_columns]
-            df = df[column_list_ref + remaining_columns]
-        except KeyError as e:
-            log_error(f"clean_data: Column reordering failed - {str(e)}")
-            return pd.DataFrame()
-        
         # Handle missing values
         try:
             initial_count = len(df)
@@ -239,20 +222,10 @@ def clean_data(dataframe):
         
         # Price cleaning with validation
         try:
-            # Remove currency symbols
-            currencies = df['currency'].unique()
-
-            for currency in currencies:
-                df['price'] = df['price'].astype(str).str.replace(currency, '', regex=False)
-
-            # Remove spaces and commas from the 'price' column and convert to integer
-            df.loc[:, 'price'] = (
-                df['price']
-                .astype(str)
-                .str.replace(r'[\s,]', '', regex=True)  # Remove spaces and commas
-                .astype(float)  # Convert to integer
-            )
-
+            # Remove currency symbols and convert to float values
+            if df["price"].dtype == 'object':
+                df['price'] = df['price'].str.replace(r'[￥$£€, \u00A0]', '', regex=True).astype(int)
+            
             # Validate numeric conversion
             if (invalid_prices := df['price'].isna().sum()) > 0:
                 log_error(f"clean_data: {invalid_prices} invalid price values")
@@ -293,35 +266,59 @@ def transform_data(dataframe, CURRENCIES_CODE):
 
         # Currency code mapping
         try:
-            df["currency_code"] = df["currency"].map(CURRENCIES_CODE)
+            df["currency_code"] = df["country"].map(CURRENCIES_CODE)
             if (missing_codes := df["currency_code"].isna().sum()) > 0:
                 log_error(f"transform_data: {missing_codes} missing currency mappings")
         except Exception as e:
             log_error(f"transform_data: Currency mapping failed - {str(e)}")
             return df
 
-        # Currency conversion
+        # # Currency conversion
         try:
             valid_currencies = set(CURRENCIES_CODE.values())
+            # Extract unique source currencies that are valid
+            unique_source_currencies = df.loc[df['currency_code'].isin(valid_currencies), 'currency_code'].unique()
+
+            # Precompute exchange rates for each (source, target) pair
+            exchange_rates = {}
+            for source_currency in unique_source_currencies:
+                for target_currency in valid_currencies:
+                    rate = get_exchange_rate(source_currency, target_currency)
+                    if rate is None:
+                        log_error(f"transform_data: Failed rate fetch for {source_currency}->{target_currency}")
+                    exchange_rates[(source_currency, target_currency)] = rate
+            
+            # For each target currency, build a mapping from source currency to exchange rate
             for target_currency in valid_currencies:
                 col_name = f"price_{target_currency}"
-                df[col_name] = None  # Initialize column
-                
-                for idx, row in df.iterrows():
-                    try:
-                        if pd.notna(row['currency_code']) and row['currency_code'] in valid_currencies:
-                            rate = get_exchange_rate(row['currency_code'], target_currency)
-                            if rate is not None:
-                                df.at[idx, col_name] = row['price'] * rate
-                            else:
-                                log_error(f"transform_data: Failed rate fetch for {row['currency_code']}->{target_currency}")
-                    except Exception as e:
-                        log_error(f"transform_data: Error converting {row['reference']} - {str(e)}")
-                        continue
-
+                rate_mapping = {
+                    source: exchange_rates[(source, target_currency)]
+                    for source in unique_source_currencies
+                    if exchange_rates[(source, target_currency)] is not None
+                }
+                # Use vectorized mapping to apply the conversion
+                df[col_name] = df['price'] * df['currency_code'].map(rate_mapping)
         except Exception as e:
             log_error(f"transform_data: Currency conversion failed - {str(e)}")
             return df
+
+        
+        # Validate required columns
+        required_columns = {'brand', 'product_url', 'image_url', 'collection',
+                           'reference', 'price', 'currency', 'country', 'year'}
+        missing_cols = required_columns - set(df.columns)
+        if missing_cols:
+            log_error(f"clean_data: Missing required columns {missing_cols}")
+            return pd.DataFrame()
+        
+        try:
+            # Column reordering with fallback for missing columns
+            column_list_ref = list(required_columns)
+            remaining_columns = [col for col in df.columns if col not in required_columns]
+            df = df[column_list_ref + remaining_columns]
+        except KeyError as e:
+            log_error(f"clean_data: Column reordering failed - {str(e)}")
+            return pd.DataFrame()
 
         return df
 
@@ -346,7 +343,7 @@ def launch_data_preprocess(dataframe, CURRENCIES_CODE):
     # Then transform the data
     transformed_df = transform_data(cleaned_df, CURRENCIES_CODE)
     
-    return transformed_df
+    return cleaned_df
 
 def get_latest_folder(path):
     # Get a list of all directories in the given path

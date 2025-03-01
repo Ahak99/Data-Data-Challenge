@@ -13,7 +13,7 @@ from log_handler import setup_logging, log_error
 
 
 class DataTransformation:
-    def __init__(self, input_file: str = None, ouput_file: str = None, destinations: list = None):
+    def __init__(self, input_file: str = None, output_file: str = None, destinations: list = None):
         """
         If no input_file is provided, the default behavior is to look in the latest folder under 'data/bronze/'.
         If no destinations are provided, defaults to ['silver', 'gold'].
@@ -22,7 +22,7 @@ class DataTransformation:
         setup_logging(self.log_filename)
         self.current_year = datetime.now().year
         self.input_file = input_file
-        self.ouput_file = ouput_file
+        self.output_file = output_file
         self.destinations = destinations if destinations else ["silver"]
 
     def get_input_file_path(self, prefix: str) -> str:
@@ -48,20 +48,21 @@ class DataTransformation:
             else:
                 prefix = "data/bronze/"
                 file_path = self.get_input_file_path(prefix)
-            
+            print(file_path)
             dataframe = pd.read_csv(file_path)
-            CURRENCIES_CODE = {"$": "USD", "€": "EUR", "£": "GBP", "¥": "JPY"}
+            CURRENCIES_CODE = {"USA": "USD", "France": "EUR", "UK": "GBP", "Japan": "JPY"}
             
             transformed_df = launch_data_preprocess(dataframe, CURRENCIES_CODE)
             
-            if self.ouput_file:
-                filename = self.ouput_file
+            if self.output_file:
+                output_file_name = self.output_file
             else:
-                filename = f"PANERAI_DATA_{self.current_year}"
+                output_file_name = f"PANERAI_DATA_{self.current_year}"
             for dest in self.destinations:
                 dest_dir = create_output_directory(dest)
-                save_data(transformed_df, filename, dest_dir)
-
+                save_data(transformed_df, output_file_name, dest_dir)
+            print(output_file_name)
+            print(dest_dir)
         except FileNotFoundError as fnf_error:
             log_error(f"File not found: {str(fnf_error)}")
         except pd.errors.EmptyDataError:
@@ -74,9 +75,9 @@ class DataTransformation:
 
 if __name__ == "__main__":
     
-    input_file_name = "data/bronze/2025-02-28_10-39-57/France_watches_2025.csv"
-    input_file_name = "output.csv"
-    destinations = ["silver", "gold"]
+    input_file_name = "data/bronze/PANERAI_DATA_2021.csv"
+    output_file_name = "PANERAI_DATA_2021.csv"
+    destinations = ["silver"]
     
-    transformer = DataTransformation(ouput_file = input_file_name, destinations=destinations)
+    transformer = DataTransformation(input_file = input_file_name, output_file = output_file_name, destinations=destinations)
     transformer.run()

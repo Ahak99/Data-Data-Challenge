@@ -4,12 +4,20 @@ from datetime import datetime
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 
+import os
+import time
+from datetime import datetime
+import sys
+import logging
 import json
 import shutil
 import tempfile
 import unittest
 from datetime import datetime
 from unittest.mock import MagicMock, patch
+
+# Disable logging of error messages during tests
+logging.disable(logging.ERROR)
 
 import pandas as pd
 
@@ -108,7 +116,7 @@ class TestUtils(unittest.TestCase):
             "year": [2025],
         }
         df = pd.DataFrame(data)
-        currencies_code = {"$": "USD", "€": "EUR", "£": "GBP", "¥": "JPY"}
+        currencies_code = {"USA": "USD", "France": "EUR", "UK": "GBP", "Japan": "JPY"}
         transformed_df = transform_data(df, currencies_code)
         # Check that a new column for currency code is added
         self.assertIn("currency_code", transformed_df.columns)
@@ -130,7 +138,7 @@ class TestUtils(unittest.TestCase):
             "year": [2025],
         }
         df = pd.DataFrame(data)
-        currencies_code = {"$": "USD", "€": "EUR", "£": "GBP", "¥": "JPY"}
+        currencies_code = {"USA": "USD", "France": "EUR", "UK": "GBP", "Japan": "JPY"}
         processed_df = launch_data_preprocess(df, currencies_code)
         self.assertFalse(processed_df.empty)
         self.assertIn("currency_code", processed_df.columns)

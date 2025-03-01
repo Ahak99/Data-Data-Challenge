@@ -1,444 +1,688 @@
-name,country,min_price_country,product_url,collection,reference,price_USD,min_price,price_diff
-Radiomir Quaranta,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01570-radiomir-quaranta.html,Radiomir,PAM01570,6000.0,6000.0,0.0
-Radiomir Quaranta,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01571-radiomir-quaranta.html,Radiomir,PAM01571,6000.0,6000.0,0.0
-Radiomir Quaranta,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01572-radiomir-quaranta.html,Radiomir,PAM01572,6000.0,6000.0,0.0
-Radiomir Quaranta,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01573-radiomir-quaranta.html,Radiomir,PAM01573,6000.0,6000.0,0.0
-Radiomir Officine,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01385-radiomir-officine.html,Radiomir,PAM01385,5400.0,5400.0,0.0
-Radiomir Officine,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01384-radiomir-officine.html,Radiomir,PAM01384,5400.0,5400.0,0.0
-Radiomir Officine,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01383-radiomir-officine.html,Radiomir,PAM01383,4900.0,4900.0,0.0
-Radiomir Officine,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01382-radiomir-officine.html,Radiomir,PAM01382,4900.0,4900.0,0.0
-Radiomir Tre Giorni,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01334-radiomir-tre-giorni.html,Radiomir,PAM01334,7100.0,7100.0,0.0
-Radiomir Tre Giorni,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01335-radiomir-tre-giorni.html,Radiomir,PAM01335,7100.0,7100.0,0.0
-Radiomir Tre Giorni,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01350-radiomir-tre-giorni.html,Radiomir,PAM01350,7100.0,7100.0,0.0
-Radiomir Otto Giorni,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01347-radiomir-otto-giorni.html,Radiomir,PAM01347,9700.0,9700.0,0.0
-Radiomir Otto Giorni,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01348-radiomir-otto-giorni.html,Radiomir,PAM01348,9700.0,9700.0,0.0
-Radiomir California,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01349-radiomir-california.html,Radiomir,PAM01349,12300.0,12300.0,0.0
-Radiomir 8 Giorni Eilean,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01643-radiomir-8-giorni-eilean.html,Radiomir,PAM01643,42300.0,42300.0,0.0
-Radiomir Tourbillon GMT Bronzo,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01284-radiomir-tourbillon-gmt-bronzo.html,Radiomir,PAM01284,146700.0,146700.0,0.0
-Radiomir Bronzo,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam00760-radiomir-bronzo.html,Radiomir,PAM00760,18600.0,18600.0,0.0
-Radiomir Quaranta Goldtech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01026-radiomir-quaranta-goldtech.html,Radiomir,PAM01026,18200.0,18200.0,0.0
-Radiomir Quaranta Yellow Gold,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01437-radiomir-quaranta-yellow-gold.html,Radiomir,PAM01437,18200.0,18200.0,0.0
-Radiomir Annual Calendar Goldtech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01363-radiomir-annual-calendar-goldtech.html,Radiomir,PAM01363,34500.0,34500.0,0.0
-Radiomir Annual Calendar Platinumtech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01364-radiomir-annual-calendar-platinumtech.html,Radiomir,PAM01364,50900.0,50900.0,0.0
-Radiomir Perpetual Calendar GMT Goldtech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam01453-radiomir-perpetual-calendar-gmt-goldtech.html,Radiomir,PAM01453,43200.0,43200.0,0.0
-Radiomir Minute Repeater Tourbillon GMT,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/radiomir/pam00600-radiomir-minute-repeater-tourbillon-gmt.html,Radiomir,PAM00600,396800.0,396800.0,0.0
-Luminor Base Logo,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01623-luminor-base-logo.html,Luminor,PAM01623,5600.0,5600.0,0.0
-Luminor Base Logo,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01087-luminor-base-logo.html,Luminor,PAM01087,5600.0,5600.0,0.0
-Luminor Base Logo,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01086-luminor-base-logo.html,Luminor,PAM01086,5600.0,5600.0,0.0
-Luminor Logo,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01084-luminor-logo.html,Luminor,PAM01084,6100.0,6100.0,0.0
-Luminor Logo ,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01085-luminor-logo.html,Luminor,PAM01085,6100.0,6100.0,0.0
-Luminor Logo,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01624-luminor-logo.html,Luminor,PAM01624,6100.0,6100.0,0.0
-Luminor Tre Giorni,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01628-luminor-tre-giorni.html,Luminor,PAM01628,10500.0,10500.0,0.0
-Luminor 8 Giorni,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam00914-luminor-8-giorni.html,Luminor,PAM00914,7100.0,7100.0,0.0
-Luminor 8 Giorni,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam00915-luminor-8-giorni.html,Luminor,PAM00915,7600.0,7600.0,0.0
-Luminor Destro Otto Giorni,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01655-luminor-destro-otto-giorni.html,Luminor,PAM01655,8100.0,8100.0,0.0
-Luminor Marina,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam00422-luminor-marina.html,Luminor,PAM00422,11300.0,11300.0,0.0
-Luminor Quaranta,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01371-luminor-quaranta.html,Luminor,PAM01371,7800.0,7800.0,0.0
-Luminor Quaranta,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01370-luminor-quaranta.html,Luminor,PAM01370,7800.0,7800.0,0.0
-Luminor Quaranta,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01372-luminor-quaranta.html,Luminor,PAM01372,7800.0,7800.0,0.0
-Luminor Quaranta Steel DLC Luna Rossa,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01408-luminor-quaranta-steel-dlc-luna-rossa.html,Luminor,PAM01408,9300.0,9300.0,0.0
-Luminor Quaranta Carbotech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01526-luminor-quaranta-carbotech.html,Luminor,PAM01526,13300.0,13300.0,0.0
-Luminor Marina,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01314-luminor-marina.html,Luminor,PAM01314,8800.0,8800.0,0.0
-Luminor Marina,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01313-luminor-marina.html,Luminor,PAM01313,8800.0,8800.0,0.0
-Luminor Marina,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01312-luminor-marina.html,Luminor,PAM01312,8800.0,8800.0,0.0
-Luminor Marina Blu Profondo,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01157-luminor-marina-blu-profondo.html,Luminor,PAM01157,9400.0,9400.0,0.0
-Luminor Marina Verde Smeraldo,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01356-luminor-marina-verde-smeraldo.html,Luminor,PAM01356,9400.0,9400.0,0.0
-Luminor Marina Grigio Roccia,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01358-luminor-marina-grigio-roccia.html,Luminor,PAM01358,9400.0,9400.0,0.0
-Luminor Marina,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01564-luminor-marina.html,Luminor,PAM01564,9500.0,9500.0,0.0
-Luminor Marina,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01316-luminor-marina.html,Luminor,PAM01316,9500.0,9500.0,0.0
-Luminor Marina,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01562-luminor-marina.html,Luminor,PAM01562,9500.0,9500.0,0.0
-Luminor Marina Navy SEALs,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01412-luminor-marina-navy-seals.html,Luminor,PAM01412,9800.0,9800.0,0.0
-Luminor Marina Carbotech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam02661-luminor-marina-carbotech.html,Luminor,PAM02661,14800.0,14800.0,0.0
-Luminor Marina TuttoGrigio,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam02662-luminor-marina-tuttogrigio.html,Luminor,PAM02662,16300.0,16300.0,0.0
-Luminor Marina Goldtech™ ,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01112-luminor-marina-goldtech.html,Luminor,PAM01112,26800.0,26800.0,0.0
-Luminor Quaranta BiTempo,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01365-luminor-quaranta-bitempo.html,Luminor,PAM01365,9200.0,9200.0,0.0
-Luminor Quaranta BiTempo,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01367-luminor-quaranta-bitempo.html,Luminor,PAM01367,9200.0,9200.0,0.0
-Luminor Quaranta BiTempo Luna Rossa,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01404-luminor-quaranta-bitempo-luna-rossa.html,Luminor,PAM01404,9600.0,9600.0,0.0
-Luminor Quaranta BiTempo,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01640-luminor-quaranta-bitempo.html,Luminor,PAM01640,9800.0,9800.0,0.0
-Luminor Quaranta BiTempo Goldtech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01641-luminor-quaranta-bitempo-goldtech.html,Luminor,PAM01641,25400.0,25400.0,0.0
-Luminor BiTempo Power Reserve,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01360-luminor-bitempo-power-reserve.html,Luminor,PAM01360,10600.0,10600.0,0.0
-Luminor BiTempo Power Reserve,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01361-luminor-bitempo-power-reserve.html,Luminor,PAM01361,10600.0,10600.0,0.0
-Luminor GMT,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01441-luminor-gmt.html,Luminor,PAM01441,14900.0,14900.0,0.0
-Luminor GMT Power Reserve Ceramica,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01674-luminor-gmt-power-reserve-ceramica.html,Luminor,PAM01674,19100.0,19100.0,0.0
-Luminor Chrono,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01218-luminor-chrono.html,Luminor,PAM01218,10000.0,10000.0,0.0
-Luminor Chrono,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01109-luminor-chrono.html,Luminor,PAM01109,10000.0,10000.0,0.0
-Luminor Chrono,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01110-luminor-chrono.html,Luminor,PAM01110,10800.0,10800.0,0.0
-Luminor Chrono,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01548-luminor-chrono.html,Luminor,PAM01548,10800.0,10800.0,0.0
-Luminor Chrono Carbotech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01219-luminor-chrono-carbotech.html,Luminor,PAM01219,16600.0,16600.0,0.0
-Luminor Chrono Goldtech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01111-luminor-chrono-goldtech.html,Luminor,PAM01111,29400.0,29400.0,0.0
-Luminor Chrono Navy SEALs,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01409-luminor-chrono-navy-seals.html,Luminor,PAM01409,11000.0,11000.0,0.0
-Luminor Chrono Carbotech™ Navy SEALs,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01419-luminor-chrono-carbotech-navy-seals.html,Luminor,PAM01419,17900.0,17900.0,0.0
-Luminor Dieci Giorni GMT,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01482-luminor-dieci-giorni-gmt.html,Luminor,PAM01482,15200.0,15200.0,0.0
-Luminor Dieci Giorni GMT Ceramica,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01483-luminor-dieci-giorni-gmt-ceramica.html,Luminor,PAM01483,19500.0,19500.0,0.0
-Luminor Perpetual Calendar GMT Goldtech™ ,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam00742-luminor-perpetual-calendar-gmt-goldtech.html,Luminor,PAM00742,44900.0,44900.0,0.0
-Luminor Perpetual Calendar GMT Platinumtech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam00715-luminor-perpetual-calendar-gmt-platinumtech.html,Luminor,PAM00715,62100.0,62100.0,0.0
-Luminor Perpetual Calendar Goldtech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01688-luminor-perpetual-calendar-goldtech.html,Luminor,PAM01688,45800.0,45800.0,0.0
-Luminor Equation of Time GMT Titanio,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam00670-luminor-equation-of-time-gmt-titanio.html,Luminor,PAM00670,24000.0,24000.0,0.0
-Luminor Tourbillon GMT,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam01060-luminor-tourbillon-gmt.html,Luminor,PAM01060,163100.0,163100.0,0.0
-Luminor Tourbillon Moon Phases Equation of Time GMT - L’Astronomo,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor/pam00920-luminor-tourbillon-moon-phases-equation-of-time-gmt--la.html,Luminor,PAM00920,232900.0,232900.0,0.0
-Submersible Luna Rossa,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01565-submersible-luna-rossa.html,Submersible,PAM01565,11300.0,11300.0,0.0
-Submersible Luna Rossa,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01579-submersible-luna-rossa.html,Submersible,PAM01579,11000.0,11000.0,0.0
-Submersible GMT Luna Rossa Titanio,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01507-submersible-gmt-luna-rossa-titanio.html,Submersible,PAM01507,12300.0,12300.0,0.0
-Submersible Luna Rossa Carbotech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01563-submersible-luna-rossa-carbotech.html,Submersible,PAM01563,18100.0,18100.0,0.0
-Submersible QuarantaQuattro Luna Rossa Ti-Ceramitech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01543-submersible-quarantaquattro-luna-rossa-ti-ceramitech.html,Submersible,PAM01543,16600.0,16600.0,0.0
-Submersible QuarantaQuattro Luna Rossa Ti-Ceramitech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01466-submersible-quarantaquattro-luna-rossa-ti-ceramitech.html,Submersible,PAM01466,16600.0,16600.0,0.0
-Submersible Tourbillon GMT Luna Rossa Experience Edition,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01405-submersible-tourbillon-gmt-luna-rossa-experience-editio.html,Submersible,PAM01405,168200.0,168200.0,0.0
-Submersible QuarantaQuattro GMT Navy SEALs Carbotech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01513-submersible-quarantaquattro-gmt-navy-seals-carbotech.html,Submersible,PAM01513,19700.0,19700.0,0.0
-Submersible,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01590-submersible.html,Submersible,PAM01590,9500.0,9500.0,0.0
-Submersible,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam02973-submersible.html,Submersible,PAM02973,9500.0,9500.0,0.0
-Submersible,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam02683-submersible.html,Submersible,PAM02683,10500.0,10500.0,0.0
-Submersible,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam02068-submersible.html,Submersible,PAM02068,11700.0,11700.0,0.0
-Submersible QuarantaQuattro,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01595-submersible-quarantaquattro.html,Submersible,PAM01595,9900.0,9900.0,0.0
-Submersible QuarantaQuattro,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01596-submersible-quarantaquattro.html,Submersible,PAM01596,9900.0,9900.0,0.0
-Submersible QuarantaQuattro Navy SEALs,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01518-submersible-quarantaquattro-navy-seals.html,Submersible,PAM01518,10200.0,10200.0,0.0
-Submersible GMT Navy SEALs,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01323-submersible-gmt-navy-seals.html,Submersible,PAM01323,11100.0,11100.0,0.0
-Submersible QuarantaQuattro Mike Horn   ,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01676-submersible-quarantaquattro-mike-horn.html,Submersible,PAM01676,11900.0,11900.0,0.0
-Submersible QuarantaQuattro Luna Rossa,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01681-submersible-quarantaquattro-luna-rossa.html,Submersible,PAM01681,12100.0,12100.0,0.0
-Submersible QuarantaQuattro Grigio Roccia,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01288-submersible-quarantaquattro-grigio-roccia.html,Submersible,PAM01288,11600.0,11600.0,0.0
-Submersible QuarantaQuattro Blu Profondo,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01289-submersible-quarantaquattro-blu-profondo.html,Submersible,PAM01289,11600.0,11600.0,0.0
-Submersible QuarantaQuattro Verde Smeraldo,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01287-submersible-quarantaquattro-verde-smeraldo.html,Submersible,PAM01287,11600.0,11600.0,0.0
-Submersible Carbotech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam02231-submersible-carbotech.html,Submersible,PAM02231,17600.0,17600.0,0.0
-Submersible Bronzo ,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01074-submersible-bronzo.html,Submersible,PAM01074,17700.0,17700.0,0.0
-Submersible QuarantaQuattro Carbotech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01232-submersible-quarantaquattro-carbotech.html,Submersible,PAM01232,18600.0,18600.0,0.0
-Submersible S Brabus Blue Shadow Edition,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01241-submersible-s-brabus-blue-shadow-edition.html,Submersible,PAM01241,44900.0,44900.0,0.0
-Submersible S Brabus,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01403-submersible-s-brabus.html,Submersible,PAM01403,44900.0,44900.0,0.0
-Submersible S Brabus Carbotech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01283-submersible-s-brabus-carbotech.html,Submersible,PAM01283,44900.0,44900.0,0.0
-Submersible Titanio,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam02305-submersible-titanio.html,Submersible,PAM02305,10700.0,10700.0,0.0
-Submersible BMG-TECH™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam02692-submersible-bmg-tech.html,Submersible,PAM02692,14800.0,14800.0,0.0
-Submersible Navy SEALs Titanio,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01669-submersible-navy-seals-titanio.html,Submersible,PAM01669,13700.0,13700.0,0.0
-Submersible Carbotech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam02616-submersible-carbotech.html,Submersible,PAM02616,18900.0,18900.0,0.0
-Submersible Marina Militare Carbotech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam02979-submersible-marina-militare-carbotech.html,Submersible,PAM02979,20200.0,20200.0,0.0
-Submersible Bronzo,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam00968-submersible-bronzo.html,Submersible,PAM00968,18600.0,18600.0,0.0
-Submersible GMT Titanio Mike Horn Experience Edition,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01670-submersible-gmt-titanio-mike-horn-experience-edition.html,Submersible,PAM01670,82000.0,82000.0,0.0
-Submersible Elux LAB-ID,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01800-submersible-elux-lab-id.html,Submersible,PAM01800,93200.0,93200.0,0.0
-Submersible Forze Speciali,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam02239-submersible-forze-speciali.html,Submersible,PAM02239,30400.0,30400.0,0.0
-Submersible Chrono Navy SEALs Titanio,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam01521-submersible-chrono-navy-seals-titanio.html,Submersible,PAM01521,34200.0,34200.0,0.0
-Submersible Goldtech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam02164-submersible-goldtech.html,Submersible,PAM02164,29900.0,29900.0,0.0
-Submersible QuarantaQuattro Goldtech™ OroCarbo,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/submersible/pam02070-submersible-quarantaquattro-goldtech-orocarbo.html,Submersible,PAM02070,33300.0,33300.0,0.0
-Luminor Due Luna Rossa,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01378-luminor-due-luna-rossa.html,Luminor Due,PAM01378,7400.0,7400.0,0.0
-Luminor Due,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01248-luminor-due.html,Luminor Due,PAM01248,6900.0,6900.0,0.0
-Luminor Due,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01273-luminor-due.html,Luminor Due,PAM01273,6900.0,6900.0,0.0
-Luminor Due,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01552-luminor-due.html,Luminor Due,PAM01552,6900.0,6900.0,0.0
-Luminor Due,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01425-luminor-due-prada-re-nylon.html,Luminor Due,PAM01425,6900.0,6900.0,0.0
-Luminor Due,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01426-luminor-due-prada-re-nylon.html,Luminor Due,PAM01426,6900.0,6900.0,0.0
-Luminor Due,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01123-luminor-due.html,Luminor Due,PAM01123,7700.0,7700.0,0.0
-Luminor Due,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01508-luminor-due.html,Luminor Due,PAM01508,7900.0,7900.0,0.0
-Luminor Due Pastello,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01311-luminor-due-pastello.html,Luminor Due,PAM01311,7900.0,7900.0,0.0
-Luminor Due Pastello,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01309-luminor-due-pastello.html,Luminor Due,PAM01309,7900.0,7900.0,0.0
-Luminor Due Pastello,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01319-luminor-due-pastello.html,Luminor Due,PAM01319,7900.0,7900.0,0.0
-Luminor Due Luna,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01557-luminor-due-luna.html,Luminor Due,PAM01557,9600.0,9600.0,0.0
-Luminor Due Luna,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01179-luminor-due-luna.html,Luminor Due,PAM01179,9600.0,9600.0,0.0
-Luminor Due Luna,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01301-luminor-due-luna.html,Luminor Due,PAM01301,10400.0,10400.0,0.0
-Luminor Due Luna Rossa,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01381-luminor-due-luna-rossa.html,Luminor Due,PAM01381,7800.0,7800.0,0.0
-Luminor Due,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01388-luminor-due.html,Luminor Due,PAM01388,7300.0,7300.0,0.0
-Luminor Due,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01250-luminor-due.html,Luminor Due,PAM01250,7300.0,7300.0,0.0
-Luminor Due Prada Re-Nylon,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01428-luminor-due-prada-re-nylon.html,Luminor Due,PAM01428,7300.0,7300.0,0.0
-Luminor Due Prada Re-Nylon,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01429-luminor-due-prada-re-nylon.html,Luminor Due,PAM01429,7300.0,7300.0,0.0
-Luminor Due,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01424-luminor-due.html,Luminor Due,PAM01424,7300.0,7300.0,0.0
-Luminor Due,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01124-luminor-due.html,Luminor Due,PAM01124,8100.0,8100.0,0.0
-Luminor Due,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01387-luminor-due.html,Luminor Due,PAM01387,8300.0,8300.0,0.0
-Luminor Due,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01539-luminor-due.html,Luminor Due,PAM01539,8300.0,8300.0,0.0
-Luminor Due Goldtech™ Madreperla,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01280-luminor-due-goldtech-madreperla.html,Luminor Due,PAM01280,18600.0,18600.0,0.0
-Luminor Due TuttoOro,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01326-luminor-due-tuttooro.html,Luminor Due,PAM01326,37200.0,37200.0,0.0
-Luminor Due TuttoOro,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01182-luminor-due-tuttooro.html,Luminor Due,PAM01182,37200.0,37200.0,0.0
-Luminor Due Luna Goldtech™ Madreperla ,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01181-luminor-due-luna-goldtech-madreperla.html,Luminor Due,PAM01181,21500.0,21500.0,0.0
-Luminor Due Luna TuttoOro,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01504-luminor-due-luna-tuttooro.html,Luminor Due,PAM01504,40200.0,40200.0,0.0
-Luminor Due Yellow Gold,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01423-luminor-due-yellow-gold.html,Luminor Due,PAM01423,21500.0,21500.0,0.0
-Luminor Due Goldtech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01336-luminor-due-goldtech.html,Luminor Due,PAM01336,21500.0,21500.0,0.0
-Luminor Due Platinumtech™,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01329-luminor-due-platinumtech.html,Luminor Due,PAM01329,39200.0,39200.0,0.0
-Luminor Due TuttoOro,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01494-luminor-due-tuttooro.html,Luminor Due,PAM01494,41200.0,41200.0,0.0
-Luminor Due TuttoOro,USA,USA,https://www.panerai.com/us/en/collections/watch-collection/luminor-due/pam01442-luminor-due-tuttooro.html,Luminor Due,PAM01442,41200.0,41200.0,0.0
-Radiomir Quaranta,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01570-radiomir-quaranta.html,Radiomir,PAM01570,6356.81,6000.0,356.8100000000004
-Radiomir Quaranta,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01571-radiomir-quaranta.html,Radiomir,PAM01571,6356.81,6000.0,356.8100000000004
-Radiomir Quaranta,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01572-radiomir-quaranta.html,Radiomir,PAM01572,6356.81,6000.0,356.8100000000004
-Radiomir Quaranta,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01573-radiomir-quaranta.html,Radiomir,PAM01573,6356.81,6000.0,356.8100000000004
-Radiomir Officine,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01385-radiomir-officine.html,Radiomir,PAM01385,5731.55,5400.0,331.5500000000002
-Radiomir Officine,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01384-radiomir-officine.html,Radiomir,PAM01384,5731.55,5400.0,331.5500000000002
-Radiomir Officine,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01383-radiomir-officine.html,Radiomir,PAM01383,5210.5,4900.0,310.5
-Radiomir Officine,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01382-radiomir-officine.html,Radiomir,PAM01382,5210.5,4900.0,310.5
-Radiomir Tre Giorni,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01334-radiomir-tre-giorni.html,Radiomir,PAM01334,7503.12,7100.0,403.1199999999999
-Radiomir Tre Giorni,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01335-radiomir-tre-giorni.html,Radiomir,PAM01335,7503.12,7100.0,403.1199999999999
-Radiomir Tre Giorni,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01350-radiomir-tre-giorni.html,Radiomir,PAM01350,7503.12,7100.0,403.1199999999999
-Radiomir Otto Giorni,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01347-radiomir-otto-giorni.html,Radiomir,PAM01347,10316.79,9700.0,616.7900000000009
-Radiomir Otto Giorni,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01348-radiomir-otto-giorni.html,Radiomir,PAM01348,10316.79,9700.0,616.7900000000009
-Radiomir California,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01349-radiomir-california.html,Radiomir,PAM01349,13026.25,12300.0,726.25
-Radiomir 8 Giorni Eilean,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01643-radiomir-8-giorni-eilean.html,Radiomir,PAM01643,51062.9,42300.0,8762.900000000001
-Radiomir Tourbillon GMT Bronzo,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01284-radiomir-tourbillon-gmt-bronzo.html,Radiomir,PAM01284,177157.0,146700.0,30457.0
-Radiomir Bronzo,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam00760-radiomir-bronzo.html,Radiomir,PAM00760,19799.9,18600.0,1199.9000000000015
-Radiomir Quaranta Goldtech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01026-radiomir-quaranta-goldtech.html,Radiomir,PAM01026,19278.85,18200.0,1078.8499999999985
-Radiomir Quaranta en or jaune,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01437-radiomir-quaranta-yellow-gold.html,Radiomir,PAM01437,19278.85,18200.0,1078.8499999999985
-Radiomir Annual Calendar Goldtech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01363-radiomir-annual-calendar-goldtech.html,Radiomir,PAM01363,41684.0,34500.0,7184.0
-Radiomir Annual Calendar Platinumtech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01364-radiomir-annual-calendar-platinumtech.html,Radiomir,PAM01364,61483.9,50900.0,10583.900000000001
-Radiomir Perpetual Calendar GMT Goldtech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/radiomir/pam01453-radiomir-perpetual-calendar-gmt-goldtech.html,Radiomir,PAM01453,52105.0,43200.0,8905.0
-Luminor Base Logo,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01623-luminor-base-logo.html,Luminor,PAM01623,5939.97,5600.0,339.97000000000025
-Luminor Base Logo,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01087-luminor-base-logo.html,Luminor,PAM01087,5939.97,5600.0,339.97000000000025
-Luminor Base Logo,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01086-luminor-base-logo.html,Luminor,PAM01086,5939.97,5600.0,339.97000000000025
-Luminor Logo,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01084-luminor-logo.html,Luminor,PAM01084,6461.02,6100.0,361.02000000000044
-Luminor Logo ,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01085-luminor-logo.html,Luminor,PAM01085,6461.02,6100.0,361.02000000000044
-Luminor Logo,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01624-luminor-logo.html,Luminor,PAM01624,6461.02,6100.0,361.02000000000044
-Luminor Tre Giorni,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01628-luminor-tre-giorni.html,Luminor,PAM01628,11150.47,10500.0,650.4699999999993
-Luminor 8 Giorni,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam00914-luminor-8-giorni.html,Luminor,PAM00914,7503.12,7100.0,403.1199999999999
-Luminor 8 Giorni,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam00915-luminor-8-giorni.html,Luminor,PAM00915,8024.17,7600.0,424.1700000000001
-Luminor Destro Otto Giorni,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01655-luminor-destro-otto-giorni.html,Luminor,PAM01655,8545.22,8100.0,445.21999999999935
-Luminor Marina,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam00422-luminor-marina.html,Luminor,PAM00422,11984.15,11300.0,684.1499999999996
-Luminor Quaranta,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01371-luminor-quaranta.html,Luminor,PAM01371,8232.59,7800.0,432.59000000000015
-Luminor Quaranta,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01370-luminor-quaranta.html,Luminor,PAM01370,8232.59,7800.0,432.59000000000015
-Luminor Quaranta,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01372-luminor-quaranta.html,Luminor,PAM01372,8232.59,7800.0,432.59000000000015
-Luminor Quaranta Steel DLC Luna Rossa,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01408-luminor-quaranta-steel-dlc-luna-rossa.html,Luminor,PAM01408,9795.74,9300.0,495.7399999999998
-Luminor Quaranta Carbotech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01526-luminor-quaranta-carbotech.html,Luminor,PAM01526,14068.35,13300.0,768.3500000000004
-Luminor Marina,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01314-luminor-marina.html,Luminor,PAM01314,9274.69,8800.0,474.6900000000005
-Luminor Marina,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01313-luminor-marina.html,Luminor,PAM01313,9274.69,8800.0,474.6900000000005
-Luminor Marina,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01312-luminor-marina.html,Luminor,PAM01312,9274.69,8800.0,474.6900000000005
-Luminor Marina  Blu Profondo,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01157-luminor-marina-blu-profondo.html,Luminor,PAM01157,10004.16,9400.0,604.1599999999999
-Luminor Marina Verde Smeraldo,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01356-luminor-marina-verde-smeraldo.html,Luminor,PAM01356,10004.16,9400.0,604.1599999999999
-Luminor Marina Grigio Roccia,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01358-luminor-marina-grigio-roccia.html,Luminor,PAM01358,10004.16,9400.0,604.1599999999999
-Luminor Marina,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01564-luminor-marina.html,Luminor,PAM01564,10108.37,9500.0,608.3700000000008
-Luminor Marina,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01316-luminor-marina.html,Luminor,PAM01316,10108.37,9500.0,608.3700000000008
-Luminor Marina,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01562-luminor-marina.html,Luminor,PAM01562,10108.37,9500.0,608.3700000000008
-Luminor Marina Navy SEALs,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01412-luminor-marina-navy-seals.html,Luminor,PAM01412,10421.0,9800.0,621.0
-Luminor Marina Carbotech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam02661-luminor-marina-carbotech.html,Luminor,PAM02661,15735.71,14800.0,935.7099999999991
-Luminor Marina TuttoGrigio,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam02662-luminor-marina-tuttogrigio.html,Luminor,PAM02662,17298.86,16300.0,998.8600000000006
-Luminor Marina Goldtech™ ,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01112-luminor-marina-goldtech.html,Luminor,PAM01112,28449.33,26800.0,1649.3300000000017
-Luminor Quaranta BiTempo,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01365-luminor-quaranta-bitempo.html,Luminor,PAM01365,9691.53,9200.0,491.53000000000065
-Luminor Quaranta BiTempo,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01367-luminor-quaranta-bitempo.html,Luminor,PAM01367,9691.53,9200.0,491.53000000000065
-Luminor Quaranta BiTempo Luna Rossa,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01404-luminor-quaranta-bitempo-luna-rossa.html,Luminor,PAM01404,10212.58,9600.0,612.5799999999999
-Luminor Quaranta BiTempo,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01640-luminor-quaranta-bitempo.html,Luminor,PAM01640,10421.0,9800.0,621.0
-Luminor Quaranta BiTempo Goldtech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01641-luminor-quaranta-bitempo-goldtech.html,Luminor,PAM01641,26990.39,25400.0,1590.3899999999994
-Luminor BiTempo Power Reserve,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01360-luminor-bitempo-power-reserve.html,Luminor,PAM01360,11254.68,10600.0,654.6800000000003
-Luminor BiTempo Power Reserve,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01361-luminor-bitempo-power-reserve.html,Luminor,PAM01361,11254.68,10600.0,654.6800000000003
-Luminor GMT,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01441-luminor-gmt.html,Luminor,PAM01441,15839.92,14900.0,939.9200000000001
-Luminor GMT Power Reserve Ceramica,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01674-luminor-gmt-power-reserve-ceramica.html,Luminor,PAM01674,20320.95,19100.0,1220.9500000000007
-Luminor Chrono,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01218-luminor-chrono.html,Luminor,PAM01218,10629.42,10000.0,629.4200000000001
-Luminor Chrono,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01109-luminor-chrono.html,Luminor,PAM01109,10629.42,10000.0,629.4200000000001
-Luminor Chrono,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01110-luminor-chrono.html,Luminor,PAM01110,11463.1,10800.0,663.1000000000004
-Luminor Chrono,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01548-luminor-chrono.html,Luminor,PAM01548,11463.1,10800.0,663.1000000000004
-Luminor Chrono Carbotech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01219-luminor-chrono-carbotech.html,Luminor,PAM01219,17611.49,16600.0,1011.4900000000016
-Luminor Chrono Goldtech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01111-luminor-chrono-goldtech.html,Luminor,PAM01111,31263.0,29400.0,1863.0
-Luminor Chrono Navy SEALs,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01409-luminor-chrono-navy-seals.html,Luminor,PAM01409,11671.52,11000.0,671.5200000000004
-Luminor Chrono Carbotech™ Navy SEALs,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01419-luminor-chrono-carbotech-navy-seals.html,Luminor,PAM01419,18966.22,17900.0,1066.2200000000012
-Luminor Dieci Giorni GMT,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01482-luminor-dieci-giorni-gmt.html,Luminor,PAM01482,16152.55,15200.0,952.5499999999993
-Luminor Dieci Giorni GMT Ceramica,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01483-luminor-dieci-giorni-gmt-ceramica.html,Luminor,PAM01483,20737.79,19500.0,1237.7900000000009
-Luminor Perpetual Calendar GMT Goldtech™ ,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam00742-luminor-perpetual-calendar-gmt-goldtech.html,Luminor,PAM00742,54189.2,44900.0,9289.199999999997
-Luminor Perpetual Calendar GMT Platinumtech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam00715-luminor-perpetual-calendar-gmt-platinumtech.html,Luminor,PAM00715,75031.2,62100.0,12931.199999999997
-Luminor Perpetual Calendar Goldtech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01688-luminor-perpetual-calendar-goldtech.html,Luminor,PAM01688,55231.3,45800.0,9431.300000000003
-Luminor Equation of Time GMT Titanio,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam00670-luminor-equation-of-time-gmt-titanio.html,Luminor,PAM00670,25531.45,24000.0,1531.4500000000007
-Luminor Tourbillon GMT,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor/pam01060-luminor-tourbillon-gmt.html,Luminor,PAM01060,196956.9,163100.0,33856.899999999994
-Submersible Luna Rossa,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01565-submersible-luna-rossa.html,Submersible,PAM01565,11984.15,11300.0,684.1499999999996
-Submersible Luna Rossa,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01579-submersible-luna-rossa.html,Submersible,PAM01579,11671.52,11000.0,671.5200000000004
-Submersible GMT Luna Rossa Titanio,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01507-submersible-gmt-luna-rossa-titanio.html,Submersible,PAM01507,13026.25,12300.0,726.25
-Submersible Luna Rossa Carbotech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01563-submersible-luna-rossa-carbotech.html,Submersible,PAM01563,19174.64,18100.0,1074.6399999999994
-Submersible QuarantaQuattro Luna Rossa Ti-Ceramitech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01543-submersible-quarantaquattro-luna-rossa-ti-ceramitech.html,Submersible,PAM01543,17611.49,16600.0,1011.4900000000016
-Submersible QuarantaQuattro Luna Rossa Ti-Ceramitech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01466-submersible-quarantaquattro-luna-rossa-ti-ceramitech.html,Submersible,PAM01466,17611.49,16600.0,1011.4900000000016
-Submersible Tourbillon GMT Luna Rossa Experience Edition,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01405-submersible-tourbillon-gmt-luna-rossa-experience-editio.html,Submersible,PAM01405,203209.5,168200.0,35009.5
-Submersible QuarantaQuattro GMT Navy SEALs Carbotech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01513-submersible-quarantaquattro-gmt-navy-seals-carbotech.html,Submersible,PAM01513,20946.21,19700.0,1246.2099999999991
-Submersible,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01590-submersible.html,Submersible,PAM01590,10108.37,9500.0,608.3700000000008
-Submersible,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam02973-submersible.html,Submersible,PAM02973,10108.37,9500.0,608.3700000000008
-Submersible,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam02683-submersible.html,Submersible,PAM02683,11150.47,10500.0,650.4699999999993
-Submersible,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam02068-submersible.html,Submersible,PAM02068,12400.99,11700.0,700.9899999999998
-Submersible QuarantaQuattro,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01595-submersible-quarantaquattro.html,Submersible,PAM01595,10525.21,9900.0,625.2099999999991
-Submersible QuarantaQuattro,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01596-submersible-quarantaquattro.html,Submersible,PAM01596,10525.21,9900.0,625.2099999999991
-Submersible QuarantaQuattro Navy SEALs,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01518-submersible-quarantaquattro-navy-seals.html,Submersible,PAM01518,10837.84,10200.0,637.8400000000001
-Submersible GMT Navy SEALs,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01323-submersible-gmt-navy-seals.html,Submersible,PAM01323,11775.73,11100.0,675.7299999999996
-Submersible QuarantaQuattro Mike Horn   ,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01676-submersible-quarantaquattro-mike-horn.html,Submersible,PAM01676,12609.41,11900.0,709.4099999999999
-Submersible QuarantaQuattro Luna Rossa,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01681-submersible-quarantaquattro-luna-rossa.html,Submersible,PAM01681,12817.83,12100.0,717.8299999999999
-Submersible QuarantaQuattro Grigio Roccia,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01288-submersible-quarantaquattro-grigio-roccia.html,Submersible,PAM01288,12296.78,11600.0,696.7800000000007
-Submersible QuarantaQuattro Blu Profondo,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01289-submersible-quarantaquattro-blu-profondo.html,Submersible,PAM01289,12296.78,11600.0,696.7800000000007
-Submersible QuarantaQuattro Verde Smeraldo,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01287-submersible-quarantaquattro-verde-smeraldo.html,Submersible,PAM01287,12296.78,11600.0,696.7800000000007
-Submersible Carbotech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam02231-submersible-carbotech.html,Submersible,PAM02231,18653.59,17600.0,1053.5900000000001
-Submersible Bronzo ,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01074-submersible-bronzo.html,Submersible,PAM01074,18757.8,17700.0,1057.7999999999993
-Submersible QuarantaQuattro Carbotech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01232-submersible-quarantaquattro-carbotech.html,Submersible,PAM01232,19695.69,18600.0,1095.6899999999987
-Submersible S Brabus Blue Shadow Edition,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01241-submersible-s-brabus-blue-shadow-edition.html,Submersible,PAM01241,54189.2,44900.0,9289.199999999997
-Submersible S Brabus,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01403-submersible-s-brabus.html,Submersible,PAM01403,54189.2,44900.0,9289.199999999997
-Submersible S Brabus Carbotech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01283-submersible-s-brabus-carbotech.html,Submersible,PAM01283,54189.2,44900.0,9289.199999999997
-Submersible Titanio,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam02305-submersible-titanio.html,Submersible,PAM02305,11358.89,10700.0,658.8899999999994
-Submersible BMG-TECH™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam02692-submersible-bmg-tech.html,Submersible,PAM02692,15735.71,14800.0,935.7099999999991
-Submersible Navy SEALs Titanio,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01669-submersible-navy-seals-titanio.html,Submersible,PAM01669,14485.19,13700.0,785.1900000000005
-Submersible Carbotech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam02616-submersible-carbotech.html,Submersible,PAM02616,20112.53,18900.0,1212.5299999999988
-Submersible Marina Militare Carbotech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam02979-submersible-marina-militare-carbotech.html,Submersible,PAM02979,21467.26,20200.0,1267.2599999999984
-Submersible Bronzo,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam00968-submersible-bronzo.html,Submersible,PAM00968,19799.9,18600.0,1199.9000000000015
-Submersible GMT Titanio Mike Horn Experience Edition,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01670-submersible-gmt-titanio-mike-horn-experience-edition.html,Submersible,PAM01670,98999.5,82000.0,16999.5
-Submersible Elux LAB-ID,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01800-submersible-elux-lab-id.html,Submersible,PAM01800,112546.8,93200.0,19346.800000000003
-Submersible Forze Speciali,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam02239-submersible-forze-speciali.html,Submersible,PAM02239,32305.1,30400.0,1905.0999999999985
-Submersible Chrono Navy SEALs,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam01521-submersible-chrono-navy-seals-titanio.html,Submersible,PAM01521,36473.5,34200.0,2273.5
-Submersible Goldtech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/submersible/pam02164-submersible-goldtech.html,Submersible,PAM02164,31784.05,29900.0,1884.0499999999993
-Luminor Due Luna Rossa,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01378-luminor-due-luna-rossa.html,Luminor Due,PAM01378,7815.75,7400.0,415.75
-Luminor Due,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01248-luminor-due.html,Luminor Due,PAM01248,7294.7,6900.0,394.6999999999998
-Luminor Due,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01273-luminor-due.html,Luminor Due,PAM01273,7294.7,6900.0,394.6999999999998
-Luminor Due,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01552-luminor-due.html,Luminor Due,PAM01552,7294.7,6900.0,394.6999999999998
-Luminor Due,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01425-luminor-due-prada-re-nylon.html,Luminor Due,PAM01425,7294.7,6900.0,394.6999999999998
-Luminor Due,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01426-luminor-due-prada-re-nylon.html,Luminor Due,PAM01426,7294.7,6900.0,394.6999999999998
-Luminor Due,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01123-luminor-due.html,Luminor Due,PAM01123,8128.38,7700.0,428.3800000000001
-Luminor Due,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01508-luminor-due.html,Luminor Due,PAM01508,8336.800000000001,7900.0,436.8000000000011
-Luminor Due Pastello,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01311-luminor-due-pastello.html,Luminor Due,PAM01311,8336.800000000001,7900.0,436.8000000000011
-Luminor Due Pastello,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01309-luminor-due-pastello.html,Luminor Due,PAM01309,8336.800000000001,7900.0,436.8000000000011
-Luminor Due Pastello,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01319-luminor-due-pastello.html,Luminor Due,PAM01319,8336.800000000001,7900.0,436.8000000000011
-Luminor Due Luna,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01557-luminor-due-luna.html,Luminor Due,PAM01557,10212.58,9600.0,612.5799999999999
-Luminor Due Luna,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01179-luminor-due-luna.html,Luminor Due,PAM01179,10212.58,9600.0,612.5799999999999
-Luminor Due Luna,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01301-luminor-due-luna.html,Luminor Due,PAM01301,11046.26,10400.0,646.2600000000002
-Luminor Due Luna Rossa,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01381-luminor-due-luna-rossa.html,Luminor Due,PAM01381,8232.59,7800.0,432.59000000000015
-Luminor Due,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01388-luminor-due.html,Luminor Due,PAM01388,7711.54,7300.0,411.53999999999996
-Luminor Due,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01250-luminor-due.html,Luminor Due,PAM01250,7711.54,7300.0,411.53999999999996
-Luminor Due Prada Re-Nylon,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01428-luminor-due-prada-re-nylon.html,Luminor Due,PAM01428,7711.54,7300.0,411.53999999999996
-Luminor Due Prada Re-Nylon,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01429-luminor-due-prada-re-nylon.html,Luminor Due,PAM01429,7711.54,7300.0,411.53999999999996
-Luminor Due,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01424-luminor-due.html,Luminor Due,PAM01424,7711.54,7300.0,411.53999999999996
-Luminor Due,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01124-luminor-due.html,Luminor Due,PAM01124,8545.22,8100.0,445.21999999999935
-Luminor Due,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01387-luminor-due.html,Luminor Due,PAM01387,8753.64,8300.0,453.6399999999994
-Luminor Due,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01539-luminor-due.html,Luminor Due,PAM01539,8753.64,8300.0,453.6399999999994
-Luminor Due Goldtech™ Madreperla,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01280-luminor-due-goldtech-madreperla.html,Luminor Due,PAM01280,19695.69,18600.0,1095.6899999999987
-Luminor Due TuttoOro,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01326-luminor-due-tuttooro.html,Luminor Due,PAM01326,39599.8,37200.0,2399.800000000003
-Luminor Due TuttoOro,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01182-luminor-due-tuttooro.html,Luminor Due,PAM01182,39599.8,37200.0,2399.800000000003
-Luminor Due Luna Goldtech™ Madreperla ,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01181-luminor-due-luna-goldtech-madreperla.html,Luminor Due,PAM01181,22821.99,21500.0,1321.9900000000016
-Luminor Due Luna TuttoOro,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01504-luminor-due-luna-tuttooro.html,Luminor Due,PAM01504,42726.1,40200.0,2526.0999999999985
-Luminor Due en or jaune,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01423-luminor-due-yellow-gold.html,Luminor Due,PAM01423,22821.99,21500.0,1321.9900000000016
-Luminor Due Goldtech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01336-luminor-due-goldtech.html,Luminor Due,PAM01336,22821.99,21500.0,1321.9900000000016
-Luminor Due Platinumtech™,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01329-luminor-due-platinumtech.html,Luminor Due,PAM01329,41684.0,39200.0,2484.0
-Luminor Due TuttoOro,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01494-luminor-due-tuttooro.html,Luminor Due,PAM01494,43768.2,41200.0,2568.199999999997
-Luminor Due TuttoOro,France,USA,https://www.panerai.com/fr/fr/collections/watch-collection/luminor-due/pam01442-luminor-due-tuttooro.html,Luminor Due,PAM01442,43768.2,41200.0,2568.199999999997
-Radiomir Quaranta,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01570-radiomir-quaranta.html,Radiomir,PAM01570,6567.08,6000.0,567.0799999999999
-Radiomir Quaranta,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01571-radiomir-quaranta.html,Radiomir,PAM01571,6567.08,6000.0,567.0799999999999
-Radiomir Quaranta,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01572-radiomir-quaranta.html,Radiomir,PAM01572,6567.08,6000.0,567.0799999999999
-Radiomir Quaranta,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01573-radiomir-quaranta.html,Radiomir,PAM01573,6567.08,6000.0,567.0799999999999
-Radiomir Officine,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01385-radiomir-officine.html,Radiomir,PAM01385,5935.629999999999,5400.0,535.6299999999992
-Radiomir Officine,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01384-radiomir-officine.html,Radiomir,PAM01384,5935.629999999999,5400.0,535.6299999999992
-Radiomir Officine,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01383-radiomir-officine.html,Radiomir,PAM01383,5430.469999999999,4900.0,530.4699999999993
-Radiomir Officine,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01382-radiomir-officine.html,Radiomir,PAM01382,5430.469999999999,4900.0,530.4699999999993
-Radiomir Tre Giorni,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01334-radiomir-tre-giorni.html,Radiomir,PAM01334,7703.69,7100.0,603.6899999999996
-Radiomir Tre Giorni,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01335-radiomir-tre-giorni.html,Radiomir,PAM01335,7703.69,7100.0,603.6899999999996
-Radiomir Tre Giorni,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01350-radiomir-tre-giorni.html,Radiomir,PAM01350,7703.69,7100.0,603.6899999999996
-Radiomir Otto Giorni,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01347-radiomir-otto-giorni.html,Radiomir,PAM01347,10608.36,9700.0,908.3600000000006
-Radiomir Otto Giorni,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01348-radiomir-otto-giorni.html,Radiomir,PAM01348,10608.36,9700.0,908.3600000000006
-Radiomir California,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01349-radiomir-california.html,Radiomir,PAM01349,13386.74,12300.0,1086.7399999999998
-Radiomir 8 Giorni Eilean,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01643-radiomir-8-giorni-eilean.html,Radiomir,PAM01643,42686.02,42300.0,386.0199999999968
-Radiomir Tourbillon GMT Bronzo,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01284-radiomir-tourbillon-gmt-bronzo.html,Radiomir,PAM01284,147885.59,146700.0,1185.5899999999965
-Radiomir Bronzo,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam00760-radiomir-bronzo.html,Radiomir,PAM00760,20332.69,18600.0,1732.6899999999987
-Radiomir Quaranta Goldtech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01026-radiomir-quaranta-goldtech.html,Radiomir,PAM01026,19827.53,18200.0,1627.5299999999988
-Radiomir Quaranta Yellow Gold,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01437-radiomir-quaranta-yellow-gold.html,Radiomir,PAM01437,19827.53,18200.0,1627.5299999999988
-Radiomir Annual Calendar Goldtech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01363-radiomir-annual-calendar-goldtech.html,Radiomir,PAM01363,34856.04,34500.0,356.0400000000009
-Radiomir Annual Calendar Platinumtech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01364-radiomir-annual-calendar-platinumtech.html,Radiomir,PAM01364,51400.03,50900.0,500.02999999999884
-Radiomir Perpetual Calendar GMT Goldtech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/radiomir/pam01453-radiomir-perpetual-calendar-gmt-goldtech.html,Radiomir,PAM01453,43570.05,43200.0,370.0500000000029
-Luminor Base Logo,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01623-luminor-base-logo.html,Luminor,PAM01623,6188.209999999999,5600.0,588.2099999999991
-Luminor Base Logo,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01087-luminor-base-logo.html,Luminor,PAM01087,6188.209999999999,5600.0,588.2099999999991
-Luminor Base Logo,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01086-luminor-base-logo.html,Luminor,PAM01086,6188.209999999999,5600.0,588.2099999999991
-Luminor Logo,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01084-luminor-logo.html,Luminor,PAM01084,6693.37,6100.0,593.3699999999999
-Luminor Logo ,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01085-luminor-logo.html,Luminor,PAM01085,6693.37,6100.0,593.3699999999999
-Luminor Logo,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01624-luminor-logo.html,Luminor,PAM01624,6693.37,6100.0,593.3699999999999
-Luminor Tre Giorni,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01628-luminor-tre-giorni.html,Luminor,PAM01628,11492.39,10500.0,992.3899999999994
-Luminor 8 Giorni,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam00914-luminor-8-giorni.html,Luminor,PAM00914,7703.69,7100.0,603.6899999999996
-Luminor 8 Giorni,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam00915-luminor-8-giorni.html,Luminor,PAM00915,8208.849999999999,7600.0,608.8499999999985
-Luminor Destro Otto Giorni,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01655-luminor-destro-otto-giorni.html,Luminor,PAM01655,8840.3,8100.0,740.2999999999993
-Luminor Marina,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam00422-luminor-marina.html,Luminor,PAM00422,12376.419999999998,11300.0,1076.4199999999983
-Luminor Quaranta,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01371-luminor-quaranta.html,Luminor,PAM01371,8461.43,7800.0,661.4300000000003
-Luminor Quaranta,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01370-luminor-quaranta.html,Luminor,PAM01370,8461.43,7800.0,661.4300000000003
-Luminor Quaranta,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01372-luminor-quaranta.html,Luminor,PAM01372,8461.43,7800.0,661.4300000000003
-Luminor Quaranta Steel DLC Luna Rossa,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01408-luminor-quaranta-steel-dlc-luna-rossa.html,Luminor,PAM01408,10103.2,9300.0,803.2000000000007
-Luminor Quaranta Carbotech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01526-luminor-quaranta-carbotech.html,Luminor,PAM01526,14397.06,13300.0,1097.0599999999995
-Luminor Marina,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01314-luminor-marina.html,Luminor,PAM01314,9598.04,8800.0,798.0400000000009
-Luminor Marina,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01313-luminor-marina.html,Luminor,PAM01313,9598.04,8800.0,798.0400000000009
-Luminor Marina,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01312-luminor-marina.html,Luminor,PAM01312,9598.04,8800.0,798.0400000000009
-Luminor Marina Blu Profondo,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01157-luminor-marina-blu-profondo.html,Luminor,PAM01157,10229.49,9400.0,829.4899999999998
-Luminor Marina Verde Smeraldo,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01356-luminor-marina-verde-smeraldo.html,Luminor,PAM01356,10229.49,9400.0,829.4899999999998
-Luminor Marina Grigio Roccia,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01358-luminor-marina-grigio-roccia.html,Luminor,PAM01358,10229.49,9400.0,829.4899999999998
-Luminor Marina,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01564-luminor-marina.html,Luminor,PAM01564,10355.78,9500.0,855.7800000000007
-Luminor Marina,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01316-luminor-marina.html,Luminor,PAM01316,10355.78,9500.0,855.7800000000007
-Luminor Marina,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01562-luminor-marina.html,Luminor,PAM01562,10355.78,9500.0,855.7800000000007
-Luminor Marina Navy SEALs,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01412-luminor-marina-navy-seals.html,Luminor,PAM01412,10734.65,9800.0,934.6499999999996
-Luminor Marina Carbotech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam02661-luminor-marina-carbotech.html,Luminor,PAM02661,16165.12,14800.0,1365.1200000000008
-Luminor Marina TuttoGrigio,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam02662-luminor-marina-tuttogrigio.html,Luminor,PAM02662,17806.89,16300.0,1506.8899999999994
-Luminor Marina Goldtech™ ,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01112-luminor-marina-goldtech.html,Luminor,PAM01112,29172.99,26800.0,2372.9900000000016
-Luminor Quaranta BiTempo,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01365-luminor-quaranta-bitempo.html,Luminor,PAM01365,9976.91,9200.0,776.9099999999999
-Luminor Quaranta BiTempo,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01367-luminor-quaranta-bitempo.html,Luminor,PAM01367,9976.91,9200.0,776.9099999999999
-Luminor Quaranta BiTempo Luna Rossa,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01404-luminor-quaranta-bitempo-luna-rossa.html,Luminor,PAM01404,10482.07,9600.0,882.0699999999997
-Luminor Quaranta BiTempo,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01640-luminor-quaranta-bitempo.html,Luminor,PAM01640,10734.65,9800.0,934.6499999999996
-Luminor Quaranta BiTempo Goldtech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01641-luminor-quaranta-bitempo-goldtech.html,Luminor,PAM01641,27657.51,25400.0,2257.5099999999984
-Luminor BiTempo Power Reserve,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01360-luminor-bitempo-power-reserve.html,Luminor,PAM01360,11618.679999999998,10600.0,1018.6799999999985
-Luminor BiTempo Power Reserve,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01361-luminor-bitempo-power-reserve.html,Luminor,PAM01361,11618.679999999998,10600.0,1018.6799999999985
-Luminor GMT,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01441-luminor-gmt.html,Luminor,PAM01441,16291.409999999998,14900.0,1391.409999999998
-Luminor GMT Power Reserve Ceramica,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01674-luminor-gmt-power-reserve-ceramica.html,Luminor,PAM01674,20837.85,19100.0,1737.8499999999985
-Luminor Chrono,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01218-luminor-chrono.html,Luminor,PAM01218,10987.23,10000.0,987.2299999999996
-Luminor Chrono,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01109-luminor-chrono.html,Luminor,PAM01109,10987.23,10000.0,987.2299999999996
-Luminor Chrono,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01110-luminor-chrono.html,Luminor,PAM01110,11744.97,10800.0,944.9699999999993
-Luminor Chrono,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01548-luminor-chrono.html,Luminor,PAM01548,11744.97,10800.0,944.9699999999993
-Luminor Chrono Carbotech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01219-luminor-chrono-carbotech.html,Luminor,PAM01219,18059.47,16600.0,1459.4700000000012
-Luminor Chrono Goldtech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01111-luminor-chrono-goldtech.html,Luminor,PAM01111,32077.66,29400.0,2677.66
-Luminor Chrono Navy SEALs,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01409-luminor-chrono-navy-seals.html,Luminor,PAM01409,11997.55,11000.0,997.5499999999993
-Luminor Chrono Carbotech™ Navy SEALs,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01419-luminor-chrono-carbotech-navy-seals.html,Luminor,PAM01419,19448.66,17900.0,1548.6599999999999
-Luminor Dieci Giorni GMT,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01482-luminor-dieci-giorni-gmt.html,Luminor,PAM01482,16543.989999999998,15200.0,1343.989999999998
-Luminor Dieci Giorni GMT Ceramica,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01483-luminor-dieci-giorni-gmt-ceramica.html,Luminor,PAM01483,21216.72,19500.0,1716.7200000000012
-Luminor Perpetual Calendar GMT Goldtech™ ,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam00742-luminor-perpetual-calendar-gmt-goldtech.html,Luminor,PAM00742,45338.10999999999,44900.0,438.1099999999933
-Luminor Perpetual Calendar GMT Platinumtech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam00715-luminor-perpetual-calendar-gmt-platinumtech.html,Luminor,PAM00715,62639.84,62100.0,539.8399999999965
-Luminor Perpetual Calendar Goldtech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01688-luminor-perpetual-calendar-goldtech.html,Luminor,PAM01688,46095.85,45800.0,295.84999999999854
-Luminor Equation of Time GMT Titanio,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam00670-luminor-equation-of-time-gmt-titanio.html,Luminor,PAM00670,26142.03,24000.0,2142.029999999999
-Luminor Tourbillon GMT,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01060-luminor-tourbillon-gmt.html,Luminor,PAM01060,164429.58,163100.0,1329.5799999999872
-Luminor Tourbillon Moon Phases Equation of Time GMT - L’Astronomo,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam00920-luminor-tourbillon-moon-phases-equation-of-time-gmt--la.html,Luminor,PAM00920,234773.11,232900.0,1873.109999999986
-Submersible Luna Rossa,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01565-submersible-luna-rossa.html,Submersible,PAM01565,12376.419999999998,11300.0,1076.4199999999983
-Submersible Luna Rossa,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01579-submersible-luna-rossa.html,Submersible,PAM01579,11997.55,11000.0,997.5499999999993
-Submersible GMT Luna Rossa Titanio,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01507-submersible-gmt-luna-rossa-titanio.html,Submersible,PAM01507,13386.74,12300.0,1086.7399999999998
-Submersible Luna Rossa Carbotech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01563-submersible-luna-rossa-carbotech.html,Submersible,PAM01563,19701.24,18100.0,1601.2400000000016
-Submersible QuarantaQuattro Luna Rossa Ti-Ceramitech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01543-submersible-quarantaquattro-luna-rossa-ti-ceramitech.html,Submersible,PAM01543,18059.47,16600.0,1459.4700000000012
-Submersible QuarantaQuattro Luna Rossa Ti-Ceramitech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01466-submersible-quarantaquattro-luna-rossa-ti-ceramitech.html,Submersible,PAM01466,18059.47,16600.0,1459.4700000000012
-Submersible Tourbillon GMT Luna Rossa Experience Edition,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01405-submersible-tourbillon-gmt-luna-rossa-experience-editio.html,Submersible,PAM01405,169607.47,168200.0,1407.4700000000012
-Submersible QuarantaQuattro GMT Navy SEALs Carbotech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01513-submersible-quarantaquattro-gmt-navy-seals-carbotech.html,Submersible,PAM01513,21469.3,19700.0,1769.2999999999993
-Submersible,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01590-submersible.html,Submersible,PAM01590,10355.78,9500.0,855.7800000000007
-Submersible,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam02973-submersible.html,Submersible,PAM02973,10355.78,9500.0,855.7800000000007
-Submersible,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam02683-submersible.html,Submersible,PAM02683,11492.39,10500.0,992.3899999999994
-Submersible,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam02068-submersible.html,Submersible,PAM02068,12755.29,11700.0,1055.2900000000009
-Submersible QuarantaQuattro,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01595-submersible-quarantaquattro.html,Submersible,PAM01595,10860.94,9900.0,960.9400000000005
-Submersible QuarantaQuattro,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01596-submersible-quarantaquattro.html,Submersible,PAM01596,10860.94,9900.0,960.9400000000005
-Submersible QuarantaQuattro Navy SEALs,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01518-submersible-quarantaquattro-navy-seals.html,Submersible,PAM01518,11113.52,10200.0,913.5200000000004
-Submersible GMT Navy SEALs,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01323-submersible-gmt-navy-seals.html,Submersible,PAM01323,12123.839999999998,11100.0,1023.8399999999983
-Submersible QuarantaQuattro Mike Horn   ,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01676-submersible-quarantaquattro-mike-horn.html,Submersible,PAM01676,13007.87,11900.0,1107.8700000000008
-Submersible QuarantaQuattro Luna Rossa,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01681-submersible-quarantaquattro-luna-rossa.html,Submersible,PAM01681,13134.16,12100.0,1034.1599999999999
-Submersible QuarantaQuattro Grigio Roccia,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01288-submersible-quarantaquattro-grigio-roccia.html,Submersible,PAM01288,12629.0,11600.0,1029.0
-Submersible QuarantaQuattro Blu Profondo,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01289-submersible-quarantaquattro-blu-profondo.html,Submersible,PAM01289,12629.0,11600.0,1029.0
-Submersible QuarantaQuattro Verde Smeraldo,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01287-submersible-quarantaquattro-verde-smeraldo.html,Submersible,PAM01287,12629.0,11600.0,1029.0
-Submersible Carbotech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam02231-submersible-carbotech.html,Submersible,PAM02231,19069.79,17600.0,1469.7900000000009
-Submersible Bronzo ,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01074-submersible-bronzo.html,Submersible,PAM01074,19196.08,17700.0,1496.0800000000017
-Submersible QuarantaQuattro Carbotech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01232-submersible-quarantaquattro-carbotech.html,Submersible,PAM01232,20206.4,18600.0,1606.4000000000015
-Submersible S Brabus Blue Shadow Edition,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01241-submersible-s-brabus-blue-shadow-edition.html,Submersible,PAM01241,45338.10999999999,44900.0,438.1099999999933
-Submersible S Brabus,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01403-submersible-s-brabus.html,Submersible,PAM01403,45338.10999999999,44900.0,438.1099999999933
-Submersible S Brabus Carbotech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01283-submersible-s-brabus-carbotech.html,Submersible,PAM01283,45338.10999999999,44900.0,438.1099999999933
-Submersible Titanio,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam02305-submersible-titanio.html,Submersible,PAM02305,11618.679999999998,10700.0,918.6799999999985
-Submersible BMG-TECH™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam02692-submersible-bmg-tech.html,Submersible,PAM02692,16165.12,14800.0,1365.1200000000008
-Submersible Navy SEALs Titanio,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01669-submersible-navy-seals-titanio.html,Submersible,PAM01669,14902.22,13700.0,1202.2199999999993
-Submersible Carbotech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam02616-submersible-carbotech.html,Submersible,PAM02616,20585.27,18900.0,1685.2700000000004
-Submersible Marina Militare Carbotech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam02979-submersible-marina-militare-carbotech.html,Submersible,PAM02979,21974.46,20200.0,1774.4599999999991
-Submersible Bronzo,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam00968-submersible-bronzo.html,Submersible,PAM00968,20332.69,18600.0,1732.6899999999987
-Submersible GMT Titanio Mike Horn Experience Edition,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01670-submersible-gmt-titanio-mike-horn-experience-edition.html,Submersible,PAM01670,82719.95,82000.0,719.9499999999971
-Submersible Elux LAB-ID,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01800-submersible-elux-lab-id.html,Submersible,PAM01800,93959.76,93200.0,759.7599999999948
-Submersible Forze Speciali,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam02239-submersible-forze-speciali.html,Submersible,PAM02239,33087.98,30400.0,2687.980000000003
-Submersible Chrono Navy SEALs Titanio,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam01521-submersible-chrono-navy-seals-titanio.html,Submersible,PAM01521,37508.13,34200.0,3308.1299999999974
-Submersible Goldtech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam02164-submersible-goldtech.html,Submersible,PAM02164,32582.82,29900.0,2682.8199999999997
-Submersible QuarantaQuattro Goldtech™ OroCarbo,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/submersible/pam02070-submersible-quarantaquattro-goldtech-orocarbo.html,Submersible,PAM02070,36245.23,33300.0,2945.230000000003
-Luminor Due Luna Rossa,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01378-luminor-due-luna-rossa.html,Luminor Due,PAM01378,8082.559999999999,7400.0,682.5599999999986
-Luminor Due,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01248-luminor-due.html,Luminor Due,PAM01248,7577.4,6900.0,677.3999999999996
-Luminor Due,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01273-luminor-due.html,Luminor Due,PAM01273,7577.4,6900.0,677.3999999999996
-Luminor Due,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01552-luminor-due.html,Luminor Due,PAM01552,7577.4,6900.0,677.3999999999996
-Luminor Due,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01425-luminor-due-prada-re-nylon.html,Luminor Due,PAM01425,7577.4,6900.0,677.3999999999996
-Luminor Due,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01426-luminor-due-prada-re-nylon.html,Luminor Due,PAM01426,7577.4,6900.0,677.3999999999996
-Luminor Due,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01123-luminor-due.html,Luminor Due,PAM01123,8335.14,7700.0,635.1399999999994
-Luminor Due,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01508-luminor-due.html,Luminor Due,PAM01508,8587.72,7900.0,687.7199999999993
-Luminor Due Pastello,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01311-luminor-due-pastello.html,Luminor Due,PAM01311,8587.72,7900.0,687.7199999999993
-Luminor Due Pastello,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01309-luminor-due-pastello.html,Luminor Due,PAM01309,8587.72,7900.0,687.7199999999993
-Luminor Due Pastello,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01319-luminor-due-pastello.html,Luminor Due,PAM01319,8587.72,7900.0,687.7199999999993
-Luminor Due Luna,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01557-luminor-due-luna.html,Luminor Due,PAM01557,10482.07,9600.0,882.0699999999997
-Luminor Due Luna,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01179-luminor-due-luna.html,Luminor Due,PAM01179,10482.07,9600.0,882.0699999999997
-Luminor Due Luna,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01301-luminor-due-luna.html,Luminor Due,PAM01301,11366.1,10400.0,966.1000000000004
-Luminor Due Luna Rossa,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01381-luminor-due-luna-rossa.html,Luminor Due,PAM01381,8461.43,7800.0,661.4300000000003
-Luminor Due,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01388-luminor-due.html,Luminor Due,PAM01388,7956.269999999999,7300.0,656.2699999999986
-Luminor Due,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01250-luminor-due.html,Luminor Due,PAM01250,7956.269999999999,7300.0,656.2699999999986
-Luminor Due Prada Re-Nylon,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01428-luminor-due-prada-re-nylon.html,Luminor Due,PAM01428,7956.269999999999,7300.0,656.2699999999986
-Luminor Due Prada Re-Nylon,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01429-luminor-due-prada-re-nylon.html,Luminor Due,PAM01429,7956.269999999999,7300.0,656.2699999999986
-Luminor Due,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01424-luminor-due.html,Luminor Due,PAM01424,7956.269999999999,7300.0,656.2699999999986
-Luminor Due,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01124-luminor-due.html,Luminor Due,PAM01124,8840.3,8100.0,740.2999999999993
-Luminor Due,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01387-luminor-due.html,Luminor Due,PAM01387,8966.59,8300.0,666.5900000000001
-Luminor Due,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01539-luminor-due.html,Luminor Due,PAM01539,8966.59,8300.0,666.5900000000001
-Luminor Due Goldtech™ Madreperla,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01280-luminor-due-goldtech-madreperla.html,Luminor Due,PAM01280,20206.4,18600.0,1606.4000000000015
-Luminor Due TuttoOro,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01326-luminor-due-tuttooro.html,Luminor Due,PAM01326,40539.09,37200.0,3339.0899999999965
-Luminor Due TuttoOro,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01182-luminor-due-tuttooro.html,Luminor Due,PAM01182,40539.09,37200.0,3339.0899999999965
-Luminor Due Luna Goldtech™ Madreperla ,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01181-luminor-due-luna-goldtech-madreperla.html,Luminor Due,PAM01181,23363.65,21500.0,1863.6500000000015
-Luminor Due Luna TuttoOro,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01504-luminor-due-luna-tuttooro.html,Luminor Due,PAM01504,43696.34,40200.0,3496.3399999999965
-Luminor Due Yellow Gold,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01423-luminor-due-yellow-gold.html,Luminor Due,PAM01423,23363.65,21500.0,1863.6500000000015
-Luminor Due Goldtech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01336-luminor-due-goldtech.html,Luminor Due,PAM01336,23363.65,21500.0,1863.6500000000015
-Luminor Due Platinumtech™,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01329-luminor-due-platinumtech.html,Luminor Due,PAM01329,42686.02,39200.0,3486.019999999997
-Luminor Due TuttoOro,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01494-luminor-due-tuttooro.html,Luminor Due,PAM01494,44832.95,41200.0,3632.949999999997
-Luminor Due TuttoOro,UK,USA,https://www.panerai.com/gb/en/collections/watch-collection/luminor-due/pam01442-luminor-due-tuttooro.html,Luminor Due,PAM01442,44832.95,41200.0,3632.949999999997
+country,min_price_country,collection,reference,price_USD,min_price,price_diff
+France,Japan,RADIOMIR,PAM00655,10074.42,8035.610000000001,2038.8099999999995
+France,Japan,RADIOMIR,PAM00628,12047.76,9569.681,2478.0789999999997
+France,Japan,RADIOMIR,PAM00657,11840.039999999999,9423.579,2416.4609999999993
+France,Japan,LUMINOR,PAM00661,12359.34,9861.885,2497.455
+France,Japan,LUMINOR,PAM01312,8204.94,6574.59,1630.3500000000004
+France,Japan,LUMINOR,PAM01499,8204.94,6574.59,1630.3500000000004
+France,Japan,LUMINOR,PAM01523,7997.219999999999,6355.437,1641.7829999999994
+France,Japan,LUMINOR,PAM00670,22745.34,18262.75,4482.59
+France,Japan,SUBMERSIBLE,PAM01389,11943.9,9204.426,2739.474
+France,Japan,SUBMERSIBLE,PAM00692,13709.52,10884.599,2824.9210000000003
+France,Japan,SUBMERSIBLE,PAM01305,9970.56,7962.559,2008.0009999999993
+France,Japan,LUMINOR,PAM01088,7581.78,6063.233,1518.5469999999996
+France,Japan,LUMINOR,PAM01090,7789.5,6282.386,1507.1139999999996
+France,Japan,LUMINOR,PAM00653,12463.199999999999,10007.987000000001,2455.212999999998
+France,Japan,LUMINOR,PAM00654,12463.199999999999,10007.987000000001,2455.212999999998
+France,Japan,LUMINOR,PAM00722,8828.1,7012.896000000001,1815.2039999999997
+France,Japan,LUMINOR-DUE,PAM00741,22329.899999999998,17897.495,4432.404999999999
+France,Japan,LUMINOR,PAM01321,9866.699999999999,7889.508,1977.191999999999
+France,Japan,LUMINOR,PAM01535,9243.539999999999,7305.1,1938.4399999999987
+France,Japan,LUMINOR,PAM01537,9658.98,7670.3550000000005,1988.624999999999
+France,Japan,LUMINOR-DUE,PAM00755,6335.46,4967.468,1367.9920000000002
+France,Japan,LUMINOR-DUE,PAM00904,6647.04,5186.621,1460.4189999999999
+France,Japan,LUMINOR-DUE,PAM00943,10282.14,8181.712,2100.427999999999
+France,Japan,LUMINOR-DUE,PAM00944,11320.74,8985.273000000001,2335.4669999999987
+France,Japan,LUMINOR,PAM00774,5089.139999999999,4090.856,998.2839999999992
+France,Japan,LUMINOR,PAM00775,5089.139999999999,4090.856,998.2839999999992
+France,Japan,LUMINOR,PAM00776,5608.44,4456.111,1152.3289999999997
+France,Japan,LUMINOR,PAM00777,5608.44,4456.111,1152.3289999999997
+France,Japan,LUMINOR,PAM00778,5608.44,4456.111,1152.3289999999997
+France,Japan,LUMINOR,PAM01441,14021.1,11176.803,2844.2970000000005
+France,Japan,RADIOMIR,PAM00754,5089.139999999999,4090.856,998.2839999999992
+France,Japan,RADIOMIR,PAM00753,4569.84,3652.55,917.29
+France,Japan,LUMINOR,PAM00797,7997.219999999999,6355.437,1641.7829999999994
+France,Japan,LUMINOR,PAM00795,7477.92,5844.08,1633.8400000000001
+France,Japan,LUMINOR,PAM00779,8204.94,6574.59,1630.3500000000004
+France,Japan,SUBMERSIBLE,PAM00683,10074.42,8035.610000000001,2038.8099999999995
+France,Japan,SUBMERSIBLE,PAM00799,15475.14,12272.568000000001,3202.5719999999983
+France,Japan,SUBMERSIBLE,PAM00960,17552.34,14025.792000000001,3526.547999999999
+France,Japan,SUBMERSIBLE,PAM00961,41440.14,33019.052,8421.087999999996
+France,Japan,SUBMERSIBLE,PAM00979,19629.54,15632.914,3996.626
+France,Japan,SUBMERSIBLE,PAM00982,19629.54,15632.914,3996.626
+France,Japan,SUBMERSIBLE,PAM00983,40401.54,31704.134000000002,8697.405999999999
+France,Japan,SUBMERSIBLE,PAM00984,20668.14,16728.679,3939.4609999999993
+France,Japan,LUMINOR,PAM01036,11320.74,8985.273000000001,2335.4669999999987
+France,Japan,LUMINOR,PAM01038,24407.1,19431.566,4975.534
+France,Japan,SUBMERSIBLE,PAM01039,21810.6,17459.189000000002,4351.410999999996
+France,Japan,SUBMERSIBLE,PAM01616,18071.64,14464.098,3607.5419999999995
+France,Japan,SUBMERSIBLE,PAM00985,41440.14,33019.052,8421.087999999996
+France,Japan,LUMINOR,PAM01033,9451.26,7451.202,2000.058
+France,Japan,LUMINOR,PAM00764,13397.939999999999,10665.446,2732.493999999999
+France,Japan,LUMINOR,PAM00788,16098.3,12710.874,3387.4259999999995
+France,Japan,LUMINOR,PAM00977,8828.1,7012.896000000001,1815.2039999999997
+France,Japan,LUMINOR,PAM01028,8828.1,7012.896000000001,1815.2039999999997
+France,Japan,SUBMERSIBLE,PAM00968,17136.899999999998,13660.537,3476.3629999999976
+France,Japan,LUMINOR,PAM01438,15059.699999999999,11688.16,3371.539999999999
+France,Japan,RADIOMIR,PAM00995,11320.74,8985.273000000001,2335.4669999999987
+France,Japan,RADIOMIR,PAM00997,13397.939999999999,10665.446,2732.493999999999
+France,Japan,RADIOMIR,PAM00998,12151.619999999999,9642.732,2508.887999999999
+France,Japan,SUBMERSIBLE,PAM00973,9035.82,7158.9980000000005,1876.8219999999992
+France,France,SUBMERSIBLE,PAM00974,27522.899999999998,27522.899999999998,0.0
+France,Japan,LUMINOR-DUE,PAM01029,15994.439999999999,12637.823,3356.6169999999984
+France,Japan,LUMINOR-DUE,PAM00927,7477.92,5844.08,1633.8400000000001
+France,Japan,LUMINOR-DUE,PAM00926,7166.34,5697.978,1468.362
+France,Japan,LUMINOR-DUE,PAM00964,12359.34,9788.834,2570.5059999999994
+France,Japan,LUMINOR-DUE,PAM01046,6647.04,5186.621,1460.4189999999999
+France,Japan,LUMINOR-DUE,PAM01043,6335.46,4967.468,1367.9920000000002
+France,Japan,LUMINOR-DUE,PAM01045,15994.439999999999,12637.823,3356.6169999999984
+France,Japan,LUMINOR,PAM01037,18175.5,14537.149000000001,3638.3509999999987
+France,Japan,RADIOMIR,PAM00931,8828.1,7012.896000000001,1815.2039999999997
+France,Japan,LUMINOR-DUE,PAM01042,19110.239999999998,15340.710000000001,3769.529999999997
+France,Japan,LUMINOR-DUE,PAM01041,19110.239999999998,15340.710000000001,3769.529999999997
+France,Japan,RADIOMIR,PAM00992,8620.38,6793.743,1826.6369999999988
+France,Japan,LUMINOR,PAM00915,6958.62,5551.876,1406.7439999999997
+France,Japan,LUMINOR,PAM00914,6439.32,5113.57,1325.75
+France,Japan,LUMINOR,PAM01661,14021.1,11176.803,2844.2970000000005
+France,Japan,RADIOMIR,PAM01078,11320.74,8985.273000000001,2335.4669999999987
+France,Japan,RADIOMIR,PAM01144,8204.94,6428.488,1776.4520000000002
+France,Japan,LUMINOR,PAM01117,19733.399999999998,15705.965,4027.4349999999977
+France,France,SUBMERSIBLE,PAM01108,197334.0,197334.0,0.0
+France,Japan,LUMINOR,PAM01112,24510.96,19431.566,5079.394
+France,Japan,LUMINOR,PAM01118,16617.6,13222.231,3395.368999999999
+France,Japan,LUMINOR,PAM01119,19733.399999999998,15705.965,4027.4349999999977
+France,Japan,LUMINOR,PAM01662,15579.0,11980.364,3598.6360000000004
+France,Japan,LUMINOR,PAM01663,16617.6,13222.231,3395.368999999999
+France,Japan,LUMINOR,PAM01313,8204.94,6574.59,1630.3500000000004
+France,Japan,LUMINOR,PAM01085,5608.44,4456.111,1152.3289999999997
+France,Japan,LUMINOR,PAM01314,8204.94,6574.59,1630.3500000000004
+France,Japan,LUMINOR,PAM02392,7997.219999999999,6355.437,1641.7829999999994
+France,Japan,LUMINOR,PAM01316,9035.82,7158.9980000000005,1876.8219999999992
+France,Japan,LUMINOR,PAM01096,11216.88,8693.069,2523.8109999999997
+France,Japan,SUBMERSIBLE,PAM01070,31054.14,24033.779000000002,7020.360999999997
+France,France,LUMINOR,PAM01393,7997.219999999999,7997.219999999999,0.0
+France,Japan,LUMINOR,PAM01086,5089.139999999999,4090.856,998.2839999999992
+France,Japan,LUMINOR,PAM01084,5608.44,4456.111,1152.3289999999997
+France,Japan,RADIOMIR,PAM02020,6750.9,5259.6720000000005,1491.2279999999992
+France,Japan,LUMINOR,PAM01075,9866.699999999999,7670.3550000000005,2196.3449999999984
+France,Japan,LUMINOR,PAM01122,19733.399999999998,15705.965,4027.4349999999977
+France,Japan,SUBMERSIBLE,PAM01074,16098.3,12710.874,3387.4259999999995
+France,Japan,LUMINOR,PAM01116,39986.1,31704.134000000002,8281.965999999997
+France,Japan,SUBMERSIBLE,PAM01164,28249.92,22499.708000000002,5750.211999999996
+France,Japan,LUMINOR,PAM01109,9243.539999999999,7305.1,1938.4399999999987
+France,Japan,LUMINOR,PAM01110,10074.42,8035.610000000001,2038.8099999999995
+France,Japan,LUMINOR,PAM01111,27522.899999999998,21476.994000000002,6045.905999999995
+France,Japan,LUMINOR,PAM01157,8828.1,7012.896000000001,1815.2039999999997
+France,Japan,LUMINOR,PAM01303,9451.26,7451.202,2000.058
+France,Japan,LUMINOR,PAM01135,22745.34,18262.75,4482.59
+France,Japan,LUMINOR,PAM01218,9243.539999999999,7305.1,1938.4399999999987
+France,Japan,LUMINOR-DUE,PAM01280,17033.04,13587.486,3445.554
+France,Japan,LUMINOR,PAM01356,8828.1,7012.896000000001,1815.2039999999997
+France,Japan,LUMINOR,PAM01358,8828.1,7012.896000000001,1815.2039999999997
+France,Japan,LUMINOR,PAM00742,47775.6,37986.520000000004,9789.079999999994
+France,Japan,SUBMERSIBLE,PAM01225,62316.0,49528.578,12787.421999999999
+France,Japan,LUMINOR,PAM00715,68547.59999999999,54569.097,13978.50299999999
+France,Japan,LUMINOR-DUE,PAM01123,7166.34,5697.978,1468.362
+France,Japan,LUMINOR-DUE,PAM01124,7477.92,5844.08,1633.8400000000001
+France,Japan,SUBMERSIBLE,PAM01068,10905.3,8766.12,2139.1799999999985
+France,France,SUBMERSIBLE,PAM01163,30638.7,30638.7,0.0
+France,Japan,RADIOMIR,PAM01243,8204.94,6574.59,1630.3500000000004
+France,Japan,SUBMERSIBLE,PAM01223,9035.82,7158.9980000000005,1876.8219999999992
+France,Japan,LUMINOR-DUE,PAM01273,6335.46,5040.519,1294.9409999999998
+France,Japan,LUMINOR-DUE,PAM01274,6647.04,5186.621,1460.4189999999999
+France,Japan,LUMINOR,PAM01279,10282.14,8181.712,2100.427999999999
+France,Japan,LUMINOR-DUE,PAM01250,6647.04,5186.621,1460.4189999999999
+France,Japan,LUMINOR-DUE,PAM01249,6647.04,5186.621,1460.4189999999999
+France,Japan,LUMINOR,PAM01664,14021.1,11176.803,2844.2970000000005
+France,Japan,SUBMERSIBLE,PAM01209,9866.699999999999,7889.508,1977.191999999999
+France,Japan,LUMINOR,PAM01298,16098.3,12710.874,3387.4259999999995
+France,Japan,LUMINOR,PAM01115,28976.94,22791.912,6185.027999999998
+France,Japan,LUMINOR-DUE,PAM01248,6335.46,5040.519,1294.9409999999998
+France,Japan,LUMINOR,PAM01114,28976.94,22791.912,6185.027999999998
+France,Japan,LUMINOR-DUE,PAM01247,6335.46,5040.519,1294.9409999999998
+France,Japan,SUBMERSIBLE,PAM01291,20668.14,16728.679,3939.4609999999993
+France,Japan,LUMINOR,PAM00335,17967.78,14317.996000000001,3649.783999999998
+France,Japan,SUBMERSIBLE,PAM01240,46737.0,37256.01,9480.989999999998
+France,Japan,LUMINOR,PAM01270,7166.34,5697.978,1468.362
+France,Japan,LUMINOR,PAM01271,7166.34,5697.978,1468.362
+France,Japan,LUMINOR,PAM01272,7166.34,5697.978,1468.362
+France,Japan,LUMINOR,PAM01392,7997.219999999999,6355.437,1641.7829999999994
+France,Japan,LUMINOR-DUE,PAM01306,6335.46,5040.519,1294.9409999999998
+France,Japan,LUMINOR,PAM00233,12463.199999999999,10007.987000000001,2455.212999999998
+France,Japan,LUMINOR,PAM00422,10178.279999999999,8108.661,2069.618999999999
+France,Japan,LUMINOR,PAM00423,10282.14,8181.712,2100.427999999999
+France,Japan,RADIOMIR,PAM00424,8101.08,6501.539,1599.5410000000002
+France,Japan,RADIOMIR,PAM00425,8101.08,6501.539,1599.5410000000002
+France,Japan,LUMINOR,PAM00524,11320.74,8985.273000000001,2335.4669999999987
+France,Japan,LUMINOR,PAM00526,17552.34,14025.792000000001,3526.547999999999
+France,Japan,LUMINOR,PAM00561,6439.32,5113.57,1325.75
+France,Japan,SUBMERSIBLE,PAM00616,17552.34,14025.792000000001,3526.547999999999
+France,Japan,RADIOMIR,PAM00619,10801.44,8620.018,2181.4220000000005
+France,Japan,RADIOMIR,PAM00577,11320.74,8985.273000000001,2335.4669999999987
+France,Japan,LUMINOR,PAM00768,150597.0,119730.589,30866.410999999993
+France,France,LUMINOR,PAM00863,23887.8,23887.8,0.0
+France,Japan,LUMINOR,PAM01060,172407.6,137548.392,34859.20800000001
+UK,Japan,RADIOMIR,PAM00655,10956.78,8035.610000000001,2921.17
+UK,Japan,RADIOMIR,PAM00628,13097.76,9569.681,3528.0789999999997
+UK,Japan,RADIOMIR,PAM00657,12845.880000000001,9423.579,3422.3010000000013
+UK,Japan,LUMINOR,PAM00661,13349.640000000001,9861.885,3487.755000000001
+UK,Japan,LUMINOR-DUE,PAM00674,11712.42,8620.018,3092.402
+UK,Japan,LUMINOR-DUE,PAM00675,28210.56,20527.331000000002,7683.228999999999
+UK,Japan,LUMINOR,PAM01312,8563.92,6574.59,1989.33
+UK,Japan,LUMINOR,PAM01499,8563.92,6574.59,1989.33
+UK,Japan,LUMINOR,PAM01523,8437.980000000001,6355.437,2082.5430000000015
+UK,Japan,LUMINOR,PAM00670,24306.420000000002,18262.75,6043.670000000002
+UK,Japan,SUBMERSIBLE,PAM01389,12719.94,9204.426,3515.514000000001
+UK,Japan,SUBMERSIBLE,PAM00692,14483.1,10884.599,3598.501
+UK,Japan,SUBMERSIBLE,PAM01305,10453.02,7962.559,2490.4610000000002
+UK,Japan,LUMINOR,PAM01088,8186.1,6063.233,2122.867
+UK,Japan,LUMINOR,PAM01090,8437.980000000001,6282.386,2155.594000000001
+UK,Japan,LUMINOR,PAM00653,13475.58,10007.987000000001,3467.592999999999
+UK,Japan,LUMINOR,PAM00654,13475.58,10007.987000000001,3467.592999999999
+UK,Japan,LUMINOR,PAM00722,9319.560000000001,7012.896000000001,2306.6640000000007
+UK,Japan,LUMINOR-DUE,PAM00741,24306.420000000002,17897.495,6408.925000000003
+UK,Japan,LUMINOR,PAM01321,10201.140000000001,7889.508,2311.6320000000014
+UK,Japan,LUMINOR,PAM01535,9697.380000000001,7305.1,2392.2800000000007
+UK,Japan,LUMINOR,PAM01537,10075.2,7670.3550000000005,2404.8450000000003
+UK,Japan,LUMINOR-DUE,PAM00755,6926.700000000001,4967.468,1959.2320000000009
+UK,Japan,LUMINOR-DUE,PAM00944,12216.18,8985.273000000001,3230.9069999999992
+UK,Japan,LUMINOR,PAM00774,5415.42,4090.856,1324.5639999999999
+UK,Japan,LUMINOR,PAM00775,5415.42,4090.856,1324.5639999999999
+UK,Japan,LUMINOR,PAM00776,6045.120000000001,4456.111,1589.009000000001
+UK,Japan,LUMINOR,PAM00777,6045.120000000001,4456.111,1589.009000000001
+UK,Japan,LUMINOR,PAM00778,6045.120000000001,4456.111,1589.009000000001
+UK,Japan,LUMINOR,PAM01441,12845.880000000001,11176.803,1669.0770000000011
+UK,Japan,LUMINOR,PAM01104,7556.400000000001,5624.927000000001,1931.473
+UK,Japan,RADIOMIR,PAM00754,5289.4800000000005,4090.856,1198.6240000000003
+UK,Japan,RADIOMIR,PAM00753,4785.72,3652.55,1133.17
+UK,Japan,LUMINOR,PAM00797,8312.04,6355.437,1956.603000000001
+UK,Japan,LUMINOR,PAM00795,7808.280000000001,5844.08,1964.2000000000007
+UK,Japan,LUMINOR,PAM00779,8815.800000000001,6574.59,2241.210000000001
+UK,Japan,SUBMERSIBLE,PAM00683,10704.900000000001,8035.610000000001,2669.290000000001
+UK,Japan,SUBMERSIBLE,PAM00799,16875.960000000003,12272.568000000001,4603.392000000002
+UK,Japan,SUBMERSIBLE,PAM00960,19016.940000000002,14025.792000000001,4991.148000000001
+UK,Japan,SUBMERSIBLE,PAM00961,45086.520000000004,33019.052,12067.468
+UK,Japan,SUBMERSIBLE,PAM00979,21409.800000000003,15632.914,5776.886000000002
+UK,Japan,SUBMERSIBLE,PAM00982,21409.800000000003,15632.914,5776.886000000002
+UK,Japan,SUBMERSIBLE,PAM00983,43953.060000000005,31704.134000000002,12248.926000000003
+UK,Japan,SUBMERSIBLE,PAM00984,22543.260000000002,16728.679,5814.581000000002
+UK,Japan,LUMINOR,PAM01036,12342.12,8985.273000000001,3356.8469999999998
+UK,Japan,LUMINOR,PAM01038,26573.34,19431.566,7141.774000000001
+UK,Japan,SUBMERSIBLE,PAM01039,23676.72,17459.189000000002,6217.530999999999
+UK,Japan,SUBMERSIBLE,PAM01616,19646.64,14464.098,5182.5419999999995
+UK,Japan,SUBMERSIBLE,PAM00985,45086.520000000004,33019.052,12067.468
+UK,Japan,LUMINOR,PAM01033,9949.26,7451.202,2498.058
+UK,Japan,LUMINOR,PAM00986,16183.29,12126.466,4056.8240000000005
+UK,Japan,LUMINOR,PAM00764,14483.1,10665.446,3817.6540000000005
+UK,Japan,LUMINOR,PAM00788,17505.66,12710.874,4794.786
+UK,Japan,LUMINOR,PAM00977,9319.560000000001,7012.896000000001,2306.6640000000007
+UK,Japan,LUMINOR,PAM01028,9319.560000000001,7012.896000000001,2306.6640000000007
+UK,Japan,SUBMERSIBLE,PAM00968,18009.420000000002,13660.537,4348.883000000002
+UK,Japan,LUMINOR,PAM01438,14860.92,11688.16,3172.76
+UK,UK,LUMINOR,PAM01025,8815.800000000001,8815.800000000001,0.0
+UK,Japan,LUMINOR,PAM00768,163722.0,119730.589,43991.41099999999
+UK,Japan,RADIOMIR,PAM00995,12342.12,8985.273000000001,3356.8469999999998
+UK,Japan,RADIOMIR,PAM00997,14483.1,10665.446,3817.6540000000005
+UK,Japan,RADIOMIR,PAM00998,13160.730000000001,9642.732,3517.9980000000014
+UK,Japan,SUBMERSIBLE,PAM00973,9571.44,7158.9980000000005,2412.442
+UK,France,SUBMERSIBLE,PAM00974,29973.72,27522.899999999998,2450.8200000000033
+UK,Japan,LUMINOR-DUE,PAM01029,16875.960000000003,12637.823,4238.137000000002
+UK,Japan,LUMINOR-DUE,PAM00927,8060.160000000001,5844.08,2216.080000000001
+UK,Japan,LUMINOR-DUE,PAM00926,7682.34,5697.978,1984.362
+UK,Japan,LUMINOR-DUE,PAM00964,13223.7,9788.834,3434.866
+UK,Japan,LUMINOR-DUE,PAM01046,7178.580000000001,5186.621,1991.9590000000007
+UK,Japan,LUMINOR-DUE,PAM01043,6926.700000000001,4967.468,1959.2320000000009
+UK,Japan,LUMINOR-DUE,PAM01045,16875.960000000003,12637.823,4238.137000000002
+UK,Japan,LUMINOR,PAM01037,19772.58,14537.149000000001,5235.4310000000005
+UK,Japan,RADIOMIR,PAM00931,9571.44,7012.896000000001,2558.544
+UK,Japan,LUMINOR-DUE,PAM01042,20150.4,15340.710000000001,4809.6900000000005
+UK,Japan,LUMINOR-DUE,PAM01041,20150.4,15340.710000000001,4809.6900000000005
+UK,Japan,RADIOMIR,PAM00992,9319.560000000001,6793.743,2525.817000000001
+UK,Japan,LUMINOR,PAM00915,7304.52,5551.876,1752.6440000000002
+UK,Japan,LUMINOR,PAM00914,6800.76,5113.57,1687.1900000000005
+UK,Japan,LUMINOR,PAM01661,13601.52,11176.803,2424.7170000000006
+UK,Japan,RADIOMIR,PAM01078,12342.12,8985.273000000001,3356.8469999999998
+UK,Japan,RADIOMIR,PAM01144,8815.800000000001,6428.488,2387.312000000001
+UK,Japan,LUMINOR,PAM01117,21535.74,15705.965,5829.7750000000015
+UK,France,SUBMERSIBLE,PAM01108,213972.06000000003,197334.0,16638.060000000027
+UK,Japan,LUMINOR,PAM01112,25943.640000000003,19431.566,6512.074000000004
+UK,Japan,LUMINOR,PAM01118,18009.420000000002,13222.231,4787.189000000002
+UK,Japan,LUMINOR,PAM01119,21535.74,15705.965,5829.7750000000015
+UK,Japan,LUMINOR,PAM01662,17001.9,11980.364,5021.536000000002
+UK,Japan,LUMINOR,PAM01663,18009.420000000002,13222.231,4787.189000000002
+UK,Japan,LUMINOR,PAM01313,8563.92,6574.59,1989.33
+UK,Japan,LUMINOR,PAM01085,6045.120000000001,4456.111,1589.009000000001
+UK,Japan,LUMINOR,PAM01314,8563.92,6574.59,1989.33
+UK,Japan,LUMINOR,PAM02392,8437.980000000001,6355.437,2082.5430000000015
+UK,Japan,LUMINOR,PAM01316,9571.44,7158.9980000000005,2412.442
+UK,Japan,LUMINOR,PAM01096,12216.18,8693.069,3523.111000000001
+UK,Japan,SUBMERSIBLE,PAM01070,33877.86,24033.779000000002,9844.080999999998
+UK,France,LUMINOR,PAM01393,8437.980000000001,7997.219999999999,440.76000000000204
+UK,Japan,LUMINOR,PAM01086,5415.42,4090.856,1324.5639999999999
+UK,Japan,LUMINOR,PAM01084,6045.120000000001,4456.111,1589.009000000001
+UK,Japan,RADIOMIR,PAM02020,7304.52,5259.6720000000005,2044.848
+UK,Japan,LUMINOR,PAM01075,10704.900000000001,7670.3550000000005,3034.545000000001
+UK,Japan,LUMINOR,PAM01122,21535.74,15705.965,5829.7750000000015
+UK,Japan,SUBMERSIBLE,PAM01074,17505.66,12710.874,4794.786
+UK,Japan,LUMINOR,PAM01116,43449.3,31704.134000000002,11745.166000000001
+UK,Japan,SUBMERSIBLE,PAM01164,29973.72,22499.708000000002,7474.011999999999
+UK,Japan,LUMINOR,PAM01109,10075.2,7305.1,2770.1000000000004
+UK,Japan,LUMINOR,PAM01110,10956.78,8035.610000000001,2921.17
+UK,Japan,LUMINOR,PAM01111,29973.72,21476.994000000002,8496.725999999999
+UK,Japan,LUMINOR,PAM01157,9571.44,7012.896000000001,2558.544
+UK,Japan,LUMINOR,PAM01303,10201.140000000001,7451.202,2749.938000000001
+UK,Japan,LUMINOR,PAM01135,24810.18,18262.75,6547.43
+UK,Japan,LUMINOR,PAM01218,10075.2,7305.1,2770.1000000000004
+UK,Japan,LUMINOR-DUE,PAM01280,18513.18,13587.486,4925.6939999999995
+UK,Japan,LUMINOR,PAM01356,9571.44,7012.896000000001,2558.544
+UK,Japan,LUMINOR,PAM01358,9571.44,7012.896000000001,2558.544
+UK,Japan,LUMINOR,PAM00742,52139.16,37986.520000000004,14152.64
+UK,Japan,SUBMERSIBLE,PAM01225,68007.6,49528.578,18479.022000000004
+UK,Japan,LUMINOR,PAM00715,74808.36,54569.097,20239.263
+UK,Japan,LUMINOR-DUE,PAM01123,7682.34,5697.978,1984.362
+UK,Japan,LUMINOR,PAM01060,186643.08000000002,137548.392,49094.688000000024
+UK,Japan,LUMINOR-DUE,PAM01124,8060.160000000001,5844.08,2216.080000000001
+UK,Japan,SUBMERSIBLE,PAM01068,11775.390000000001,8766.12,3009.2700000000004
+UK,France,SUBMERSIBLE,PAM01163,33374.1,30638.7,2735.399999999998
+UK,Japan,RADIOMIR,PAM01243,8815.800000000001,6574.59,2241.210000000001
+UK,Japan,SUBMERSIBLE,PAM01223,9823.32,7158.9980000000005,2664.321999999999
+UK,Japan,LUMINOR-DUE,PAM01273,6926.700000000001,5040.519,1886.1810000000005
+UK,Japan,LUMINOR-DUE,PAM01274,7178.580000000001,5186.621,1991.9590000000007
+UK,Japan,LUMINOR,PAM01279,11208.66,8181.712,3026.9479999999994
+UK,Japan,LUMINOR-DUE,PAM01250,7178.580000000001,5186.621,1991.9590000000007
+UK,Japan,LUMINOR-DUE,PAM01249,7178.580000000001,5186.621,1991.9590000000007
+UK,Japan,LUMINOR,PAM01664,15238.740000000002,11176.803,4061.9370000000017
+UK,Japan,SUBMERSIBLE,PAM01209,10704.900000000001,7889.508,2815.3920000000016
+UK,Japan,LUMINOR,PAM01298,17505.66,12710.874,4794.786
+UK,Japan,LUMINOR,PAM01115,31610.940000000002,22791.912,8819.028000000002
+UK,Japan,LUMINOR-DUE,PAM01248,6926.700000000001,5040.519,1886.1810000000005
+UK,Japan,LUMINOR,PAM01114,31610.940000000002,22791.912,8819.028000000002
+UK,Japan,LUMINOR-DUE,PAM01247,6926.700000000001,5040.519,1886.1810000000005
+UK,Japan,SUBMERSIBLE,PAM01291,22543.260000000002,16728.679,5814.581000000002
+UK,Japan,LUMINOR,PAM00335,19016.940000000002,14317.996000000001,4698.944000000001
+UK,Japan,SUBMERSIBLE,PAM01240,50879.76,37256.01,13623.75
+UK,Japan,LUMINOR,PAM01270,7682.34,5697.978,1984.362
+UK,Japan,LUMINOR,PAM01271,7682.34,5697.978,1984.362
+UK,Japan,LUMINOR,PAM01272,7682.34,5697.978,1984.362
+UK,Japan,LUMINOR,PAM01392,8437.980000000001,6355.437,2082.5430000000015
+UK,Japan,LUMINOR-DUE,PAM01306,6926.700000000001,5040.519,1886.1810000000005
+UK,Japan,LUMINOR,PAM00233,13475.58,10007.987000000001,3467.592999999999
+UK,Japan,LUMINOR,PAM00422,10704.900000000001,8108.661,2596.2390000000014
+UK,Japan,LUMINOR,PAM00423,10893.810000000001,8181.712,2712.098000000001
+UK,Japan,RADIOMIR,PAM00424,8689.86,6501.539,2188.321000000001
+UK,Japan,RADIOMIR,PAM00425,8689.86,6501.539,2188.321000000001
+UK,Japan,LUMINOR,PAM00524,12342.12,8985.273000000001,3356.8469999999998
+UK,Japan,LUMINOR,PAM00526,18765.06,14025.792000000001,4739.268
+UK,Japan,LUMINOR,PAM00561,6800.76,5113.57,1687.1900000000005
+UK,Japan,SUBMERSIBLE,PAM00616,19016.940000000002,14025.792000000001,4991.148000000001
+UK,Japan,RADIOMIR,PAM00619,11712.42,8620.018,3092.402
+UK,Japan,RADIOMIR,PAM00577,12342.12,8985.273000000001,3356.8469999999998
+Japan,Japan,RADIOMIR,PAM00574,6136.284000000001,6136.284000000001,0.0
+Japan,Japan,RADIOMIR,PAM00575,14610.2,14610.2,0.0
+Japan,Japan,RADIOMIR,PAM00620,8035.610000000001,8035.610000000001,0.0
+Japan,Japan,RADIOMIR,PAM00655,8035.610000000001,8035.610000000001,0.0
+Japan,Japan,RADIOMIR,PAM00628,9569.681,9569.681,0.0
+Japan,Japan,RADIOMIR,PAM00657,9423.579,9423.579,0.0
+Japan,Japan,LUMINOR,PAM00661,9861.885,9861.885,0.0
+Japan,Japan,LUMINOR-DUE,PAM00674,8620.018,8620.018,0.0
+Japan,Japan,LUMINOR-DUE,PAM00675,20527.331000000002,20527.331000000002,0.0
+Japan,Japan,LUMINOR-DUE,PAM00676,6574.59,6574.59,0.0
+Japan,Japan,LUMINOR-DUE,PAM00677,17897.495,17897.495,0.0
+Japan,Japan,LUMINOR,PAM01312,6574.59,6574.59,0.0
+Japan,Japan,LUMINOR,PAM01359,6574.59,6574.59,0.0
+Japan,Japan,LUMINOR,PAM01499,6574.59,6574.59,0.0
+Japan,Japan,LUMINOR,PAM01523,6355.437,6355.437,0.0
+Japan,Japan,LUMINOR,PAM00656,18262.75,18262.75,0.0
+Japan,Japan,LUMINOR,PAM00670,18262.75,18262.75,0.0
+Japan,Japan,SUBMERSIBLE,PAM01389,9204.426,9204.426,0.0
+Japan,Japan,SUBMERSIBLE,PAM00692,10884.599,10884.599,0.0
+Japan,Japan,SUBMERSIBLE,PAM01305,7962.559,7962.559,0.0
+Japan,Japan,LUMINOR,PAM01088,6063.233,6063.233,0.0
+Japan,Japan,LUMINOR,PAM01090,6282.386,6282.386,0.0
+Japan,Japan,LUMINOR,PAM00652,13879.69,13879.69,0.0
+Japan,Japan,LUMINOR,PAM00653,10007.987000000001,10007.987000000001,0.0
+Japan,Japan,LUMINOR,PAM00654,10007.987000000001,10007.987000000001,0.0
+Japan,Japan,LUMINOR,PAM00723,7158.9980000000005,7158.9980000000005,0.0
+Japan,Japan,LUMINOR,PAM00722,7012.896000000001,7012.896000000001,0.0
+Japan,Japan,LUMINOR-DUE,PAM00729,8985.273000000001,8985.273000000001,0.0
+Japan,Japan,LUMINOR-DUE,PAM00739,11542.058,11542.058,0.0
+Japan,Japan,LUMINOR-DUE,PAM00741,17897.495,17897.495,0.0
+Japan,Japan,LUMINOR,PAM01321,7889.508,7889.508,0.0
+Japan,Japan,LUMINOR,PAM01351,6611.1155,6611.1155,0.0
+Japan,Japan,LUMINOR,PAM01535,7305.1,7305.1,0.0
+Japan,Japan,LUMINOR,PAM01537,7670.3550000000005,7670.3550000000005,0.0
+Japan,Japan,LUMINOR-DUE,PAM00755,4967.468,4967.468,0.0
+Japan,Japan,LUMINOR-DUE,PAM00756,12637.823,12637.823,0.0
+Japan,Japan,LUMINOR-DUE,PAM00903,4967.468,4967.468,0.0
+Japan,Japan,LUMINOR-DUE,PAM00904,5186.621,5186.621,0.0
+Japan,Japan,LUMINOR-DUE,PAM00906,5186.621,5186.621,0.0
+Japan,Japan,LUMINOR-DUE,PAM00943,8181.712,8181.712,0.0
+Japan,Japan,LUMINOR-DUE,PAM00944,8985.273000000001,8985.273000000001,0.0
+Japan,Japan,LUMINOR,PAM00773,4090.856,4090.856,0.0
+Japan,Japan,LUMINOR,PAM00774,4090.856,4090.856,0.0
+Japan,Japan,LUMINOR,PAM00775,4090.856,4090.856,0.0
+Japan,Japan,LUMINOR,PAM00776,4456.111,4456.111,0.0
+Japan,Japan,LUMINOR,PAM00777,4456.111,4456.111,0.0
+Japan,Japan,LUMINOR,PAM00778,4456.111,4456.111,0.0
+Japan,Japan,LUMINOR,PAM01048,5478.825,5478.825,0.0
+Japan,Japan,LUMINOR,PAM01441,11176.803,11176.803,0.0
+Japan,Japan,LUMINOR,PAM01104,5624.927000000001,5624.927000000001,0.0
+Japan,Japan,RADIOMIR,PAM00754,4090.856,4090.856,0.0
+Japan,Japan,RADIOMIR,PAM00753,3652.55,3652.55,0.0
+Japan,Japan,RADIOMIR,PAM00932,7305.1,7305.1,0.0
+Japan,Japan,RADIOMIR,PAM00933,8181.712,8181.712,0.0
+Japan,Japan,RADIOMIR,PAM00945,9423.579,9423.579,0.0
+Japan,Japan,RADIOMIR,PAM00946,9569.681,9569.681,0.0
+Japan,Japan,LUMINOR,PAM00797,6355.437,6355.437,0.0
+Japan,Japan,LUMINOR,PAM00796,5697.978,5697.978,0.0
+Japan,Japan,LUMINOR,PAM00795,5844.08,5844.08,0.0
+Japan,Japan,LUMINOR,PAM00779,6574.59,6574.59,0.0
+Japan,Japan,SUBMERSIBLE,PAM00683,8035.610000000001,8035.610000000001,0.0
+Japan,Japan,SUBMERSIBLE,PAM00799,12272.568000000001,12272.568000000001,0.0
+Japan,Japan,SUBMERSIBLE,PAM00959,8035.610000000001,8035.610000000001,0.0
+Japan,Japan,SUBMERSIBLE,PAM00960,14025.792000000001,14025.792000000001,0.0
+Japan,Japan,SUBMERSIBLE,PAM00961,33019.052,33019.052,0.0
+Japan,Japan,SUBMERSIBLE,PAM00979,15632.914,15632.914,0.0
+Japan,Japan,SUBMERSIBLE,PAM00982,15632.914,15632.914,0.0
+Japan,Japan,SUBMERSIBLE,PAM00983,31704.134000000002,31704.134000000002,0.0
+Japan,Japan,SUBMERSIBLE,PAM00984,16728.679,16728.679,0.0
+Japan,Japan,LUMINOR,PAM01036,8985.273000000001,8985.273000000001,0.0
+Japan,Japan,LUMINOR,PAM01038,19431.566,19431.566,0.0
+Japan,Japan,SUBMERSIBLE,PAM01039,17459.189000000002,17459.189000000002,0.0
+Japan,Japan,SUBMERSIBLE,PAM01616,14464.098,14464.098,0.0
+Japan,Japan,SUBMERSIBLE,PAM00985,33019.052,33019.052,0.0
+Japan,Japan,LUMINOR,PAM01033,7451.202,7451.202,0.0
+Japan,Japan,LUMINOR,PAM00986,12126.466,12126.466,0.0
+Japan,Japan,LUMINOR,PAM00764,10665.446,10665.446,0.0
+Japan,Japan,LUMINOR,PAM00788,12710.874,12710.874,0.0
+Japan,Japan,LUMINOR,PAM01020,22718.861,22718.861,0.0
+Japan,Japan,LUMINOR,PAM00978,7158.9980000000005,7158.9980000000005,0.0
+Japan,Japan,LUMINOR,PAM00977,7012.896000000001,7012.896000000001,0.0
+Japan,Japan,LUMINOR,PAM01058,7158.9980000000005,7158.9980000000005,0.0
+Japan,Japan,LUMINOR,PAM01028,7012.896000000001,7012.896000000001,0.0
+Japan,Japan,SUBMERSIBLE,PAM00968,13660.537,13660.537,0.0
+Japan,Japan,LUMINOR,PAM01438,11688.16,11688.16,0.0
+Japan,Japan,LUMINOR,PAM00768,119730.589,119730.589,0.0
+Japan,Japan,RADIOMIR,PAM00995,8985.273000000001,8985.273000000001,0.0
+Japan,Japan,RADIOMIR,PAM00997,10665.446,10665.446,0.0
+Japan,Japan,RADIOMIR,PAM00998,9642.732,9642.732,0.0
+Japan,Japan,RADIOMIR,PAM00999,9861.885,9861.885,0.0
+Japan,Japan,SUBMERSIBLE,PAM00973,7158.9980000000005,7158.9980000000005,0.0
+Japan,Japan,LUMINOR-DUE,PAM01029,12637.823,12637.823,0.0
+Japan,Japan,LUMINOR-DUE,PAM00927,5844.08,5844.08,0.0
+Japan,Japan,LUMINOR-DUE,PAM00926,5697.978,5697.978,0.0
+Japan,Japan,LUMINOR-DUE,PAM00964,9788.834,9788.834,0.0
+Japan,Japan,LUMINOR-DUE,PAM01046,5186.621,5186.621,0.0
+Japan,Japan,LUMINOR-DUE,PAM01043,4967.468,4967.468,0.0
+Japan,Japan,LUMINOR-DUE,PAM01045,12637.823,12637.823,0.0
+Japan,Japan,LUMINOR,PAM01037,14537.149000000001,14537.149000000001,0.0
+Japan,Japan,RADIOMIR,PAM00931,7012.896000000001,7012.896000000001,0.0
+Japan,Japan,LUMINOR-DUE,PAM01042,15340.710000000001,15340.710000000001,0.0
+Japan,Japan,LUMINOR-DUE,PAM01041,15340.710000000001,15340.710000000001,0.0
+Japan,Japan,RADIOMIR,PAM00992,6793.743,6793.743,0.0
+Japan,Japan,LUMINOR,PAM00915,5551.876,5551.876,0.0
+Japan,Japan,LUMINOR,PAM00914,5113.57,5113.57,0.0
+Japan,Japan,LUMINOR,PAM01661,11176.803,11176.803,0.0
+Japan,Japan,RADIOMIR,PAM01078,8985.273000000001,8985.273000000001,0.0
+Japan,Japan,RADIOMIR,PAM01144,6428.488,6428.488,0.0
+Japan,Japan,LUMINOR,PAM01117,15705.965,15705.965,0.0
+Japan,Japan,LUMINOR,PAM01112,19431.566,19431.566,0.0
+Japan,Japan,LUMINOR,PAM01118,13222.231,13222.231,0.0
+Japan,Japan,LUMINOR,PAM01119,15705.965,15705.965,0.0
+Japan,Japan,LUMINOR,PAM01662,11980.364,11980.364,0.0
+Japan,Japan,LUMINOR,PAM01663,13222.231,13222.231,0.0
+Japan,Japan,LUMINOR,PAM01313,6574.59,6574.59,0.0
+Japan,Japan,LUMINOR,PAM01085,4456.111,4456.111,0.0
+Japan,Japan,LUMINOR,PAM01314,6574.59,6574.59,0.0
+Japan,Japan,LUMINOR,PAM02392,6355.437,6355.437,0.0
+Japan,Japan,LUMINOR,PAM01316,7158.9980000000005,7158.9980000000005,0.0
+Japan,Japan,LUMINOR,PAM01096,8693.069,8693.069,0.0
+Japan,Japan,SUBMERSIBLE,PAM01070,24033.779000000002,24033.779000000002,0.0
+Japan,Japan,LUMINOR,PAM01086,4090.856,4090.856,0.0
+Japan,Japan,LUMINOR,PAM01084,4456.111,4456.111,0.0
+Japan,Japan,RADIOMIR,PAM02020,5259.6720000000005,5259.6720000000005,0.0
+Japan,Japan,LUMINOR,PAM01075,7670.3550000000005,7670.3550000000005,0.0
+Japan,Japan,LUMINOR,PAM01122,15705.965,15705.965,0.0
+Japan,Japan,SUBMERSIBLE,PAM01074,12710.874,12710.874,0.0
+Japan,Japan,LUMINOR,PAM01116,31704.134000000002,31704.134000000002,0.0
+Japan,Japan,SUBMERSIBLE,PAM01164,22499.708000000002,22499.708000000002,0.0
+Japan,Japan,LUMINOR,PAM01109,7305.1,7305.1,0.0
+Japan,Japan,LUMINOR,PAM01110,8035.610000000001,8035.610000000001,0.0
+Japan,Japan,LUMINOR,PAM01111,21476.994000000002,21476.994000000002,0.0
+Japan,Japan,LUMINOR,PAM01157,7012.896000000001,7012.896000000001,0.0
+Japan,Japan,LUMINOR,PAM01303,7451.202,7451.202,0.0
+Japan,Japan,LUMINOR,PAM01135,18262.75,18262.75,0.0
+Japan,Japan,LUMINOR,PAM01218,7305.1,7305.1,0.0
+Japan,Japan,LUMINOR-DUE,PAM01280,13587.486,13587.486,0.0
+Japan,Japan,LUMINOR,PAM01356,7012.896000000001,7012.896000000001,0.0
+Japan,Japan,LUMINOR,PAM01358,7012.896000000001,7012.896000000001,0.0
+Japan,Japan,LUMINOR,PAM00742,37986.520000000004,37986.520000000004,0.0
+Japan,Japan,SUBMERSIBLE,PAM01225,49528.578,49528.578,0.0
+Japan,Japan,LUMINOR,PAM00715,54569.097,54569.097,0.0
+Japan,Japan,LUMINOR-DUE,PAM01123,5697.978,5697.978,0.0
+Japan,Japan,LUMINOR,PAM01060,137548.392,137548.392,0.0
+Japan,Japan,LUMINOR-DUE,PAM01124,5844.08,5844.08,0.0
+Japan,Japan,SUBMERSIBLE,PAM01068,8766.12,8766.12,0.0
+Japan,Japan,RADIOMIR,PAM01243,6574.59,6574.59,0.0
+Japan,Japan,SUBMERSIBLE,PAM01223,7158.9980000000005,7158.9980000000005,0.0
+Japan,Japan,LUMINOR-DUE,PAM01273,5040.519,5040.519,0.0
+Japan,Japan,LUMINOR-DUE,PAM01274,5186.621,5186.621,0.0
+Japan,Japan,LUMINOR,PAM01279,8181.712,8181.712,0.0
+Japan,Japan,LUMINOR-DUE,PAM01250,5186.621,5186.621,0.0
+Japan,Japan,LUMINOR-DUE,PAM01249,5186.621,5186.621,0.0
+Japan,Japan,LUMINOR,PAM01664,11176.803,11176.803,0.0
+Japan,Japan,SUBMERSIBLE,PAM01209,7889.508,7889.508,0.0
+Japan,Japan,LUMINOR,PAM01298,12710.874,12710.874,0.0
+Japan,Japan,LUMINOR,PAM01278,35648.888,35648.888,0.0
+Japan,Japan,LUMINOR,PAM01115,22791.912,22791.912,0.0
+Japan,Japan,LUMINOR-DUE,PAM01248,5040.519,5040.519,0.0
+Japan,Japan,LUMINOR,PAM01114,22791.912,22791.912,0.0
+Japan,Japan,LUMINOR-DUE,PAM01247,5040.519,5040.519,0.0
+Japan,Japan,SUBMERSIBLE,PAM01291,16728.679,16728.679,0.0
+Japan,Japan,LUMINOR,PAM00335,14317.996000000001,14317.996000000001,0.0
+Japan,Japan,LUMINOR,PAM01275,14829.353000000001,14829.353000000001,0.0
+Japan,Japan,SUBMERSIBLE,PAM01240,37256.01,37256.01,0.0
+Japan,Japan,LUMINOR,PAM01270,5697.978,5697.978,0.0
+Japan,Japan,LUMINOR,PAM01271,5697.978,5697.978,0.0
+Japan,Japan,LUMINOR,PAM01272,5697.978,5697.978,0.0
+Japan,Japan,LUMINOR,PAM01392,6355.437,6355.437,0.0
+Japan,Japan,LUMINOR-DUE,PAM01306,5040.519,5040.519,0.0
+Japan,Japan,LUMINOR,PAM00233,10007.987000000001,10007.987000000001,0.0
+Japan,Japan,LUMINOR,PAM00317,17386.138,17386.138,0.0
+Japan,Japan,LUMINOR,PAM00372,7232.049,7232.049,0.0
+Japan,Japan,LUMINOR,PAM00422,8108.661,8108.661,0.0
+Japan,Japan,LUMINOR,PAM00423,8181.712,8181.712,0.0
+Japan,Japan,RADIOMIR,PAM00424,6501.539,6501.539,0.0
+Japan,Japan,RADIOMIR,PAM00425,6501.539,6501.539,0.0
+Japan,Japan,LUMINOR,PAM00511,17386.138,17386.138,0.0
+Japan,Japan,RADIOMIR,PAM00514,6282.386,6282.386,0.0
+Japan,Japan,RADIOMIR,PAM00515,17386.138,17386.138,0.0
+Japan,Japan,LUMINOR,PAM00524,8985.273000000001,8985.273000000001,0.0
+Japan,Japan,LUMINOR,PAM00526,14025.792000000001,14025.792000000001,0.0
+Japan,Japan,LUMINOR,PAM00525,21769.198,21769.198,0.0
+Japan,Japan,LUMINOR,PAM00533,10957.65,10957.65,0.0
+Japan,Japan,LUMINOR,PAM00557,7597.304,7597.304,0.0
+Japan,Japan,LUMINOR,PAM00560,5113.57,5113.57,0.0
+Japan,Japan,LUMINOR,PAM00562,5405.774,5405.774,0.0
+Japan,Japan,LUMINOR,PAM00561,5113.57,5113.57,0.0
+Japan,Japan,LUMINOR,PAM00563,5551.876,5551.876,0.0
+Japan,Japan,LUMINOR,PAM00564,5917.131,5917.131,0.0
+Japan,Japan,RADIOMIR,PAM00572,8181.712,8181.712,0.0
+Japan,Japan,LUMINOR,PAM00576,22718.861,22718.861,0.0
+Japan,Japan,LUMINOR,PAM00580,11834.262,11834.262,0.0
+Japan,Japan,LUMINOR,PAM00590,5551.876,5551.876,0.0
+Japan,Japan,SUBMERSIBLE,PAM00615,13733.588,13733.588,0.0
+Japan,Japan,SUBMERSIBLE,PAM00616,14025.792000000001,14025.792000000001,0.0
+Japan,Japan,SUBMERSIBLE,PAM00614,12418.67,12418.67,0.0
+Japan,Japan,RADIOMIR,PAM00609,4967.468,4967.468,0.0
+Japan,Japan,RADIOMIR,PAM00610,4602.213,4602.213,0.0
+Japan,Japan,RADIOMIR,PAM00619,8620.018,8620.018,0.0
+Japan,Japan,RADIOMIR,PAM00577,8985.273000000001,8985.273000000001,0.0
+USA,Japan,RADIOMIR,PAM00574,9600.0,6136.284000000001,3463.7159999999994
+USA,Japan,RADIOMIR,PAM00575,22900.0,14610.2,8289.8
+USA,Japan,RADIOMIR,PAM00620,12600.0,8035.610000000001,4564.389999999999
+USA,Japan,RADIOMIR,PAM00655,12600.0,8035.610000000001,4564.389999999999
+USA,Japan,RADIOMIR,PAM00628,15100.0,9569.681,5530.3189999999995
+USA,Japan,RADIOMIR,PAM00657,14900.0,9423.579,5476.421
+USA,Japan,LUMINOR,PAM00661,15500.0,9861.885,5638.115
+USA,Japan,LUMINOR-DUE,PAM00674,13200.0,8620.018,4579.982
+USA,Japan,LUMINOR-DUE,PAM00675,32100.0,20527.331000000002,11572.668999999998
+USA,Japan,LUMINOR,PAM01312,10300.0,6574.59,3725.41
+USA,Japan,LUMINOR,PAM01359,10300.0,6574.59,3725.41
+USA,Japan,LUMINOR,PAM01499,10300.0,6574.59,3725.41
+USA,Japan,LUMINOR,PAM01523,10100.0,6355.437,3744.563
+USA,Japan,SUBMERSIBLE,PAM01389,15000.0,9204.426,5795.5740000000005
+USA,Japan,SUBMERSIBLE,PAM00692,17200.0,10884.599,6315.401
+USA,Japan,SUBMERSIBLE,PAM01305,12500.0,7962.559,4537.441
+USA,Japan,LUMINOR,PAM01088,9500.0,6063.233,3436.767
+USA,Japan,LUMINOR,PAM01090,9800.0,6282.386,3517.6139999999996
+USA,Japan,LUMINOR,PAM00652,21800.0,13879.69,7920.3099999999995
+USA,Japan,LUMINOR,PAM00653,15600.0,10007.987000000001,5592.012999999999
+USA,Japan,LUMINOR,PAM00654,15600.0,10007.987000000001,5592.012999999999
+USA,Japan,LUMINOR,PAM00722,11100.0,7012.896000000001,4087.1039999999994
+USA,Japan,LUMINOR-DUE,PAM00741,28500.0,17897.495,10602.505000000001
+USA,Japan,LUMINOR,PAM01321,12400.0,7889.508,4510.492
+USA,Japan,LUMINOR,PAM01351,10500.0,6611.1155,3888.8845
+USA,Japan,LUMINOR,PAM01535,11600.0,7305.1,4294.9
+USA,Japan,LUMINOR,PAM01537,12100.0,7670.3550000000005,4429.6449999999995
+USA,Japan,LUMINOR-DUE,PAM00755,8000.0,4967.468,3032.532
+USA,Japan,LUMINOR-DUE,PAM00904,8300.0,5186.621,3113.379
+USA,Japan,LUMINOR-DUE,PAM00943,12900.0,8181.712,4718.288
+USA,Japan,LUMINOR-DUE,PAM00944,14200.0,8985.273000000001,5214.726999999999
+USA,Japan,LUMINOR,PAM00773,6400.0,4090.856,2309.144
+USA,Japan,LUMINOR,PAM00774,6400.0,4090.856,2309.144
+USA,Japan,LUMINOR,PAM00775,6400.0,4090.856,2309.144
+USA,Japan,LUMINOR,PAM00776,7100.0,4456.111,2643.889
+USA,Japan,LUMINOR,PAM00777,7100.0,4456.111,2643.889
+USA,Japan,LUMINOR,PAM00778,7100.0,4456.111,2643.889
+USA,Japan,LUMINOR,PAM01048,8600.0,5478.825,3121.175
+USA,Japan,LUMINOR,PAM01441,17600.0,11176.803,6423.197
+USA,Japan,LUMINOR,PAM01104,8900.0,5624.927000000001,3275.0729999999994
+USA,Japan,RADIOMIR,PAM00754,6400.0,4090.856,2309.144
+USA,Japan,RADIOMIR,PAM00753,5700.0,3652.55,2047.4499999999998
+USA,Japan,RADIOMIR,PAM00933,12900.0,8181.712,4718.288
+USA,Japan,RADIOMIR,PAM00945,14900.0,9423.579,5476.421
+USA,Japan,RADIOMIR,PAM00946,15100.0,9569.681,5530.3189999999995
+USA,Japan,LUMINOR,PAM00797,10100.0,6355.437,3744.563
+USA,Japan,LUMINOR,PAM00796,9000.0,5697.978,3302.022
+USA,Japan,LUMINOR,PAM00795,9400.0,5844.08,3555.92
+USA,Japan,LUMINOR,PAM00779,10300.0,6574.59,3725.41
+USA,Japan,SUBMERSIBLE,PAM00683,12600.0,8035.610000000001,4564.389999999999
+USA,Japan,SUBMERSIBLE,PAM00799,19400.0,12272.568000000001,7127.431999999999
+USA,Japan,SUBMERSIBLE,PAM00960,22000.0,14025.792000000001,7974.207999999999
+USA,Japan,SUBMERSIBLE,PAM00961,52000.0,33019.052,18980.947999999997
+USA,Japan,SUBMERSIBLE,PAM00979,24600.0,15632.914,8967.086
+USA,Japan,SUBMERSIBLE,PAM00982,24600.0,15632.914,8967.086
+USA,Japan,SUBMERSIBLE,PAM00983,50600.0,31704.134000000002,18895.865999999998
+USA,Japan,SUBMERSIBLE,PAM00984,25900.0,16728.679,9171.321
+USA,Japan,LUMINOR,PAM01036,14200.0,8985.273000000001,5214.726999999999
+USA,Japan,LUMINOR,PAM01038,30600.0,19431.566,11168.434000000001
+USA,Japan,SUBMERSIBLE,PAM01039,27400.0,17459.189000000002,9940.810999999998
+USA,Japan,SUBMERSIBLE,PAM01616,22600.0,14464.098,8135.902
+USA,Japan,SUBMERSIBLE,PAM00985,52000.0,33019.052,18980.947999999997
+USA,Japan,LUMINOR,PAM01033,11900.0,7451.202,4448.798
+USA,Japan,LUMINOR,PAM00986,19200.0,12126.466,7073.534
+USA,Japan,LUMINOR,PAM00764,16800.0,10665.446,6134.554
+USA,Japan,LUMINOR,PAM00788,20200.0,12710.874,7489.126
+USA,Japan,LUMINOR,PAM01020,35800.0,22718.861,13081.139
+USA,Japan,LUMINOR,PAM00977,11100.0,7012.896000000001,4087.1039999999994
+USA,Japan,LUMINOR,PAM01028,11100.0,7012.896000000001,4087.1039999999994
+USA,Japan,SUBMERSIBLE,PAM00968,20900.0,13660.537,7239.463
+USA,Japan,LUMINOR,PAM01438,18900.0,11688.16,7211.84
+USA,UK,LUMINOR,PAM01025,10300.0,8815.800000000001,1484.199999999999
+USA,Japan,LUMINOR,PAM00768,189000.0,119730.589,69269.411
+USA,Japan,RADIOMIR,PAM00995,14200.0,8985.273000000001,5214.726999999999
+USA,Japan,RADIOMIR,PAM00997,16800.0,10665.446,6134.554
+USA,Japan,RADIOMIR,PAM00998,15200.0,9642.732,5557.268
+USA,Japan,RADIOMIR,PAM00999,15500.0,9861.885,5638.115
+USA,Japan,SUBMERSIBLE,PAM00973,11300.0,7158.9980000000005,4141.0019999999995
+USA,France,SUBMERSIBLE,PAM00974,34500.0,27522.899999999998,6977.100000000002
+USA,Japan,LUMINOR-DUE,PAM01029,20000.0,12637.823,7362.177
+USA,Japan,LUMINOR-DUE,PAM00927,9400.0,5844.08,3555.92
+USA,Japan,LUMINOR-DUE,PAM00926,9000.0,5697.978,3302.022
+USA,Japan,LUMINOR-DUE,PAM00964,15500.0,9788.834,5711.165999999999
+USA,Japan,LUMINOR-DUE,PAM01046,8300.0,5186.621,3113.379
+USA,Japan,LUMINOR-DUE,PAM01043,8000.0,4967.468,3032.532
+USA,Japan,LUMINOR-DUE,PAM01045,20000.0,12637.823,7362.177
+USA,Japan,LUMINOR,PAM01037,22700.0,14537.149000000001,8162.850999999999
+USA,Japan,RADIOMIR,PAM00931,11100.0,7012.896000000001,4087.1039999999994
+USA,Japan,LUMINOR-DUE,PAM01042,24000.0,15340.710000000001,8659.289999999999
+USA,Japan,LUMINOR-DUE,PAM01041,24000.0,15340.710000000001,8659.289999999999
+USA,Japan,RADIOMIR,PAM00992,10800.0,6793.743,4006.2569999999996
+USA,Japan,LUMINOR,PAM00915,8800.0,5551.876,3248.124
+USA,Japan,LUMINOR,PAM01661,17600.0,11176.803,6423.197
+USA,Japan,RADIOMIR,PAM01078,14200.0,8985.273000000001,5214.726999999999
+USA,Japan,RADIOMIR,PAM01144,10300.0,6428.488,3871.5119999999997
+USA,Japan,LUMINOR,PAM01117,24900.0,15705.965,9194.035
+USA,France,SUBMERSIBLE,PAM01108,247700.0,197334.0,50366.0
+USA,Japan,LUMINOR,PAM01112,30700.0,19431.566,11268.434000000001
+USA,Japan,LUMINOR,PAM01118,20900.0,13222.231,7677.769
+USA,Japan,LUMINOR,PAM01119,24900.0,15705.965,9194.035
+USA,Japan,LUMINOR,PAM01662,19600.0,11980.364,7619.636
+USA,Japan,LUMINOR,PAM01663,20900.0,13222.231,7677.769
+USA,Japan,LUMINOR,PAM01313,10300.0,6574.59,3725.41
+USA,Japan,LUMINOR,PAM01085,7100.0,4456.111,2643.889
+USA,Japan,LUMINOR,PAM01314,10300.0,6574.59,3725.41
+USA,Japan,LUMINOR,PAM02392,10100.0,6355.437,3744.563
+USA,Japan,LUMINOR,PAM01316,11300.0,7158.9980000000005,4141.0019999999995
+USA,Japan,LUMINOR,PAM01096,14100.0,8693.069,5406.9310000000005
+USA,Japan,SUBMERSIBLE,PAM01070,39000.0,24033.779000000002,14966.220999999998
+USA,France,LUMINOR,PAM01393,10100.0,7997.219999999999,2102.7800000000007
+USA,Japan,LUMINOR,PAM01086,6400.0,4090.856,2309.144
+USA,Japan,LUMINOR,PAM01084,7100.0,4456.111,2643.889
+USA,Japan,RADIOMIR,PAM02020,8400.0,5259.6720000000005,3140.3279999999995
+USA,Japan,LUMINOR,PAM01075,12400.0,7670.3550000000005,4729.6449999999995
+USA,Japan,LUMINOR,PAM01122,24900.0,15705.965,9194.035
+USA,Japan,SUBMERSIBLE,PAM01074,20200.0,12710.874,7489.126
+USA,Japan,LUMINOR,PAM01116,50100.0,31704.134000000002,18395.865999999998
+USA,Japan,SUBMERSIBLE,PAM01164,35400.0,22499.708000000002,12900.291999999998
+USA,Japan,LUMINOR,PAM01109,11600.0,7305.1,4294.9
+USA,Japan,LUMINOR,PAM01110,12600.0,8035.610000000001,4564.389999999999
+USA,Japan,LUMINOR,PAM01111,34500.0,21476.994000000002,13023.005999999998
+USA,Japan,LUMINOR,PAM01157,11100.0,7012.896000000001,4087.1039999999994
+USA,Japan,LUMINOR,PAM01303,11900.0,7451.202,4448.798
+USA,Japan,LUMINOR,PAM01135,28500.0,18262.75,10237.25
+USA,Japan,LUMINOR,PAM01218,11600.0,7305.1,4294.9
+USA,Japan,LUMINOR-DUE,PAM01280,21400.0,13587.486,7812.513999999999
+USA,Japan,LUMINOR,PAM01356,11100.0,7012.896000000001,4087.1039999999994
+USA,Japan,LUMINOR,PAM01358,11100.0,7012.896000000001,4087.1039999999994
+USA,Japan,LUMINOR,PAM00742,59700.0,37986.520000000004,21713.479999999996
+USA,Japan,SUBMERSIBLE,PAM01225,78300.0,49528.578,28771.422
+USA,Japan,LUMINOR,PAM00715,85900.0,54569.097,31330.903
+USA,Japan,LUMINOR-DUE,PAM01123,9000.0,5697.978,3302.022
+USA,Japan,LUMINOR,PAM01060,217000.0,137548.392,79451.60800000001
+USA,Japan,LUMINOR-DUE,PAM01124,9400.0,5844.08,3555.92
+USA,Japan,SUBMERSIBLE,PAM01068,13700.0,8766.12,4933.879999999999
+USA,France,SUBMERSIBLE,PAM01163,38500.0,30638.7,7861.299999999999
+USA,Japan,RADIOMIR,PAM01243,10300.0,6574.59,3725.41
+USA,Japan,SUBMERSIBLE,PAM01223,11300.0,7158.9980000000005,4141.0019999999995
+USA,Japan,LUMINOR-DUE,PAM01273,8000.0,5040.519,2959.4809999999998
+USA,Japan,LUMINOR,PAM01279,12900.0,8181.712,4718.288
+USA,Japan,LUMINOR-DUE,PAM01250,8300.0,5186.621,3113.379
+USA,Japan,LUMINOR-DUE,PAM01249,8300.0,5186.621,3113.379
+USA,Japan,LUMINOR,PAM01664,17600.0,11176.803,6423.197
+USA,Japan,SUBMERSIBLE,PAM01209,12400.0,7889.508,4510.492
+USA,Japan,LUMINOR,PAM01298,20200.0,12710.874,7489.126
+USA,Japan,LUMINOR,PAM01115,36300.0,22791.912,13508.088
+USA,Japan,LUMINOR-DUE,PAM01248,8000.0,5040.519,2959.4809999999998
+USA,Japan,LUMINOR,PAM01114,36300.0,22791.912,13508.088
+USA,Japan,LUMINOR-DUE,PAM01247,8000.0,5040.519,2959.4809999999998
+USA,Japan,SUBMERSIBLE,PAM01291,25900.0,16728.679,9171.321
+USA,Japan,SUBMERSIBLE,PAM01240,58800.0,37256.01,21543.989999999998
+USA,Japan,LUMINOR,PAM01270,9000.0,5697.978,3302.022
+USA,Japan,LUMINOR,PAM01271,9000.0,5697.978,3302.022
+USA,Japan,LUMINOR,PAM01272,9000.0,5697.978,3302.022
+USA,Japan,LUMINOR,PAM01392,10100.0,6355.437,3744.563
+USA,Japan,LUMINOR-DUE,PAM01306,8000.0,5040.519,2959.4809999999998
+USA,Japan,LUMINOR,PAM00233,15600.0,10007.987000000001,5592.012999999999
+USA,Japan,LUMINOR,PAM00317,27200.0,17386.138,9813.862000000001
+USA,Japan,LUMINOR,PAM00422,12800.0,8108.661,4691.339
+USA,Japan,LUMINOR,PAM00423,12900.0,8181.712,4718.288
+USA,Japan,RADIOMIR,PAM00424,10200.0,6501.539,3698.4610000000002
+USA,Japan,RADIOMIR,PAM00425,10200.0,6501.539,3698.4610000000002
+USA,Japan,RADIOMIR,PAM00514,9800.0,6282.386,3517.6139999999996
+USA,Japan,RADIOMIR,PAM00515,27200.0,17386.138,9813.862000000001
+USA,Japan,LUMINOR,PAM00524,14200.0,8985.273000000001,5214.726999999999
+USA,Japan,LUMINOR,PAM00526,22000.0,14025.792000000001,7974.207999999999
+USA,Japan,LUMINOR,PAM00533,17300.0,10957.65,6342.35
+USA,Japan,LUMINOR,PAM00560,8100.0,5113.57,2986.4300000000003
+USA,Japan,LUMINOR,PAM00562,8600.0,5405.774,3194.2259999999997
+USA,Japan,LUMINOR,PAM00561,8100.0,5113.57,2986.4300000000003
+USA,Japan,LUMINOR,PAM00563,8800.0,5551.876,3248.124
+USA,Japan,RADIOMIR,PAM00572,12900.0,8181.712,4718.288
+USA,Japan,LUMINOR,PAM00576,35800.0,22718.861,13081.139
+USA,Japan,SUBMERSIBLE,PAM00616,22000.0,14025.792000000001,7974.207999999999
+USA,Japan,RADIOMIR,PAM00609,7800.0,4967.468,2832.532
+USA,Japan,RADIOMIR,PAM00610,7400.0,4602.213,2797.7870000000003
+USA,Japan,RADIOMIR,PAM00619,13600.0,8620.018,4979.982
+USA,Japan,RADIOMIR,PAM00577,14200.0,8985.273000000001,5214.726999999999
