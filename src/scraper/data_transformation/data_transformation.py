@@ -73,11 +73,11 @@ class DataTransformation:
             log_error(f"An error occurred during data transformation: {str(e)}")
 
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
     
-    input_file_name = "data/bronze/PANERAI_DATA_2021.csv"
-    output_file_name = "PANERAI_DATA_2021.csv"
-    destinations = ["silver"]
+#     input_file_name = "data/bronze/PANERAI_DATA_2021.csv"
+#     output_file_name = "PANERAI_DATA_2021.csv"
+#     destinations = ["silver"]
     
-    transformer = DataTransformation(input_file = input_file_name, output_file = output_file_name, destinations=destinations)
-    transformer.run()
+#     transformer = DataTransformation(input_file = input_file_name, output_file = output_file_name, destinations=destinations)
+#     transformer.run()

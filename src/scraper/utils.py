@@ -343,7 +343,7 @@ def launch_data_preprocess(dataframe, CURRENCIES_CODE):
     # Then transform the data
     transformed_df = transform_data(cleaned_df, CURRENCIES_CODE)
     
-    return cleaned_df
+    return transformed_df
 
 def get_latest_folder(path):
     # Get a list of all directories in the given path
