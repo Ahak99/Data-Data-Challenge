@@ -12,15 +12,13 @@ We retrieve official pricing data directly from **[Panerai.com](https://www.pane
 
 To maintain data integrity and usability, we structure it using the **Medallion Architecture**:
 
-💾 **Bronze Layer:** Raw extracted data from Panerai’s website.
-
-🔧 **Silver Layer:** Cleaned and transformed data, structured for analysis.
-
+💾 **Bronze Layer:** Raw extracted data from Panerai’s website.  
+🔧 **Silver Layer:** Cleaned and transformed data, structured for analysis.  
 📊 **Gold Layer:** Insightful, enriched data for business decisions.
-
+<!-- 
 <!-- ## 🚀 Workflow Automation
 
-🔗 **Apache Airflow** powers this pipeline, automating data extraction, transformation, and analysis. -->
+🔗 **Apache Airflow** powers this pipeline, automating data extraction, transformation, and analysis. --> -->
 
 ## 📊 Analytical Approach
 
@@ -51,6 +49,19 @@ To maintain data integrity and usability, we structure it using the **Medallion 
 - Yearly **price increase rates** are compared across models & collections.
 - Identifying the most inflation-resistant luxury watches.
 
+### 🚀 Extended Analytical Tasks:
+
+- **Available Product in Stock (2025):**
+  - Analyze all available products in stock across all countries as of 2025.
+- **Best Sell Price with Profit Analysis (2021 & 2025):**
+  - Evaluate the best sell price and corresponding profit margins for the years 2021 and 2025.
+- **Price Evaluation Metrics:**
+  - Calculate metrics based on increase rate and Compound Annual Growth Rate (CAGR) to assess price evolution.
+- **Watches on Sale (2021 - 2025):**
+  - Analyze the inventory of watches that have been on sale continuously from 2021 until 2025.
+- **Market Discontinuation Analysis:**
+  - Generate a list of products that were available in the market in 2021 but are no longer available in 2025.
+
 ## 🛠️ Tech Stack
 
 This project is powered by **cutting-edge tools & frameworks**:
@@ -66,8 +77,8 @@ This project is powered by **cutting-edge tools & frameworks**:
 
 🔜 Expand dataset to analyze **multiple luxury watch brands**.  
 🔜 Deploy **machine learning models** to forecast future price trends.  
-🔜 Build an **interactive dashboard** for real-time price monitoring.  
+🔜 Build an **interactive dashboard** for real-time price monitoring.
 
 ## 🤝 Collaboration with Data&Data
 
-Founded in 2012, [Data&Data](http://data-and-data.com) is specialised in the luxury sector from watches and leather goods to fragrances. We help key decision makers to understand the ever-changing dynamics of the global online market. This enables them to make more informed and effective strategies.
+Founded in 2012, [Data&Data](http://data-and-data.com) is specialized in the luxury sector—from watches and leather goods to fragrances. We help key decision makers understand the ever-changing dynamics of the global online market, enabling them to make more informed and effective strategies.

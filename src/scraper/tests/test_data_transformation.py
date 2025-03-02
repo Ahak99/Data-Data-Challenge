@@ -55,7 +55,7 @@ class TestDataTransformation(unittest.TestCase):
             destinations = ["silver", "gold"]
 
             # Instantiate DataTransformation with the provided input file.
-            transformer = DataTransformation(input_file=input_file, ouput_file=output_file, destinations=destinations)
+            transformer = DataTransformation(input_file=input_file, output_file=output_file, destinations=destinations)
             transformer.run()
 
             # Verify that launch_data_preprocess was called.
@@ -106,7 +106,7 @@ class TestDataTransformation(unittest.TestCase):
             destinations = ["silver", "gold"]
 
             # Instantiate DataTransformation without providing an input_file.
-            transformer = DataTransformation(ouput_file=output_file, destinations=destinations)
+            transformer = DataTransformation(output_file=output_file, destinations=destinations)
             transformer.run()
 
             # Verify that get_latest_folder was called with the expected prefix.

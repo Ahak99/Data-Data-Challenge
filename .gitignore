@@ -18,3 +18,5 @@ virtualenv/
 
 data__/
 logs__
+src/scraper/dag.py
+data __latest/
