@@ -23,3 +23,9 @@ data __latest/
 
 .vscode/
 .env
+
+# Ignore Jupyter Notebook checkpoints anywhere
+**/.ipynb_checkpoints/
+
+# Ignore Python __pycache__ directories anywhere
+**/__pycache__/
