@@ -2,7 +2,6 @@
 !data/bronze/.gitkeep
 !data/silver/.gitkeep
 !data/gold/.gitkeep
-!logs/.gitkeep
 
 # Python bytecode and cache
 __pycache__/
