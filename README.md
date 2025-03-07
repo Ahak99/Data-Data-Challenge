@@ -73,6 +73,68 @@ This project is powered by **cutting-edge tools & frameworks**:
 🔐 **python-dotenv** - Secure environment variable management.  
 🚀 **Airflow** - Automating and orchestrating the workflow.
 
+## ⚙️ Local Setup and Execution
+
+Follow these steps to run the project on your local machine:
+
+### 1. Clone and Setup the Environment
+
+- **Clone the Repository:**
+  ```bash
+  git clone https://github.com/Ahak99/Data-Data-Challenge.git
+  cd Data-Data-Challenge
+  ```
+- **Create a Virtual Environment:**
+  - **On Windows:**
+  ```bash
+  python -m venv venv
+  venv\Scripts\activate
+  ```
+  - **On Windows:**
+  ```bash
+  python3 -m venv venv
+  source venv/bin/activate
+  ```
+
+- **Install Dependencies:**
+  ```bash
+    pip install -r requirements.txt
+  ```
+
+### 2. Running the Jupyter Notebooks
+The notebooks in the notebook/ folder provide interactive analysis and insights:
+
+- **Launch Jupyter Notebook:**
+  ```bash
+    jupyter notebook
+  ```
+
+- **Open and Run Notebooks:**
+Navigate to the notebook/ directory and open the following notebooks:
+
+  - Data&Data - EDA & Business Analysis for Panerai-2021.ipynb
+  - Data&Data - EDA & Business Analysis for Panerai-2025.ipynb
+  - Data&Data - Comparison between Panerai-2021 & Panerai-2025.ipynb
+
+### 3. Running the Data Pipeline with Airflowctl
+
+- **Navigate to the Orchestrator Folder:**
+  ```bash
+    cd orchestrator
+  ```
+
+- **Start the Data Pipeline:**
+  ```bash
+    airflowctl start
+  ```
+
+### 4. Running Unit Tests
+
+- **Execute Unit Tests:**
+  ```bash
+    python -m unittest discover -s src/scraper/tests
+  ```
+
 ## 🔮 Future Enhancements
 
 🔜 Expand dataset to analyze **multiple luxury watch brands**.  
