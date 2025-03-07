@@ -52,10 +52,13 @@ Thumbs.db
 
 
 data_origine
+
+# Cacher orchestrator/.gitignore et orchestrator/settings.yaml
 orchestrator/.gitignore
+orchestrator/settings.yaml
 
-# Autoriser uniquement le fichier .gitkeep dans logs/
-!logs/.gitkeep
+# Montrer uniquement le dossier logs/ sans son contenu
+orchestrator/logs/
+orchestrator/logs/*  
+!orchestrator/logs/.gitkeep  # Seul ce fichier est suivi pour garder la structure
 
-# Ignorer tout le reste dans logs/
-logs/*
