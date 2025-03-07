@@ -2,7 +2,8 @@
 # data/bronze/**
 # data/silver/**
 # data/gold/**
-logs/**
+logs/
+logs__/
 
 # Allow only the .gitkeep files to preserve directory structure
 !data/bronze/.gitkeep
