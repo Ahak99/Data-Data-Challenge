@@ -9,10 +9,10 @@ if __name__ == "__main__":
     extractor.run()
     print("\nData Scraping Completed! ...\n")
     
-    print("\nStart Data Transformation ...\n")
-    destinations = ["silver", "gold"]
-    transformer = DataTransformation(destinations=destinations)
-    transformer.run()
-    print("Data Transformation Completed! ...\n")
+    # print("\nStart Data Transformation ...\n")
+    # destinations = ["silver", "gold"]
+    # transformer = DataTransformation(destinations=destinations)
+    # transformer.run()
+    # print("Data Transformation Completed! ...\n")
 
 

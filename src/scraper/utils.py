@@ -20,17 +20,25 @@ from dotenv import load_dotenv
 from log_handler import log_error  # Import the logging handler
 
 def start_webdriver():
-    """Initialize the Chrome WebDriver with the specified service and options."""
+    """Initialize the Chromium WebDriver with the specified service and options."""
     try:
         chrome_options = webdriver.ChromeOptions()
-        chrome_options.add_argument("--headless=new")
+        # Enable headless mode for environments without a display
+        chrome_options.add_argument("--headless")
         chrome_options.add_argument("--disable-gpu")
         chrome_options.add_argument("--no-sandbox")
-        service = Service(ChromeDriverManager().install())
+        chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--remote-debugging-port=9222")
+        
+        # Set the Chromium binary location (installed via apt)
+        chrome_options.binary_location = "/usr/bin/chromium-browser"
+        
+        # Use the Chromedriver installed via apt
+        service = Service("/usr/lib/chromium-browser/chromedriver")
         driver = webdriver.Chrome(service=service, options=chrome_options)
         return driver
     except Exception as e:
-        log_error(f"Failed to start WebDriver: {str(e)}")
+        print(f"Failed to start WebDriver: {str(e)}")
         raise
 
 def close_webdriver(driver):

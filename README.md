@@ -15,10 +15,10 @@ To maintain data integrity and usability, we structure it using the **Medallion 
 💾 **Bronze Layer:** Raw extracted data from Panerai’s website.  
 🔧 **Silver Layer:** Cleaned and transformed data, structured for analysis.  
 📊 **Gold Layer:** Insightful, enriched data for business decisions.
-<!-- 
-<!-- ## 🚀 Workflow Automation
 
-🔗 **Apache Airflow** powers this pipeline, automating data extraction, transformation, and analysis. --> -->
+## 🚀 Workflow Automation
+
+🔗 **Apache Airflow** powers this pipeline, automating data extraction, transformation, and analysis.
 
 ## 📊 Analytical Approach
 
@@ -71,7 +71,7 @@ This project is powered by **cutting-edge tools & frameworks**:
 📊 **Pandas** - Data wrangling and manipulation.  
 🌐 **Requests** - Fetching additional data when needed.  
 🔐 **python-dotenv** - Secure environment variable management.  
-<!-- 🚀 **Airflow** - Automating and orchestrating the workflow.   -->
+🚀 **Airflow** - Automating and orchestrating the workflow.
 
 ## 🔮 Future Enhancements
 

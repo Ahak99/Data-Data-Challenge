@@ -42,6 +42,7 @@ env/
 venv/
 ENV/
 .venv/
+virtualenv/
 
 # Environment variables file
 .env
@@ -58,3 +59,4 @@ Thumbs.db
 
 # Log files
 *.log
+data_origine
