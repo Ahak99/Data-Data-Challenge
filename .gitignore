@@ -52,3 +52,10 @@ Thumbs.db
 
 
 data_origine
+orchestrator/.gitignore
+
+# Autoriser uniquement le fichier .gitkeep dans logs/
+!logs/.gitkeep
+
+# Ignorer tout le reste dans logs/
+logs/*
