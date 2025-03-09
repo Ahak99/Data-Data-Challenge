@@ -18,7 +18,7 @@ To maintain data integrity and usability, we structure it using the **Medallion 
 
 ## 🚀 Workflow Automation
 
-🔗 **Apache Airflow** powers this pipeline, automating data extraction, transformation, and analysis.
+🔗 **Apache Airflow** powers this pipeline, automating data extraction, and transformation.
 
 ## 📊 Analytical Approach
 
